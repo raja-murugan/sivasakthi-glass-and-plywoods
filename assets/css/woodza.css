@@ -312,7 +312,7 @@ ul {
 .section-title__title {
   margin: 0;
   color: var(--woodza-black);
-  font-size: 65px;
+  font-size: 53px;
   line-height: 70px;
   font-weight: 700;
   margin-top: 5px;
@@ -601,9 +601,10 @@ ul {
 }
 
 .main-header__top-contact li .content h5 {
-  font-size: 16px;
+  font-size: 15px;
   font-family: var(--woodza-font);
   line-height: 24px;
+  font-weight: normal;
 }
 
 .main-header__top-contact li .content h5 a {
@@ -1855,9 +1856,12 @@ ul {
   color: var(--woodza-white);
 }
 
-.main-menu-three .main-menu__list>li>a,
-.stricky-header.main-menu-three .main-menu__list>li>a {
+.main-menu-three .main-menu__list>li>a {
   color: var(--woodza-white);
+}
+
+.stricky-header.main-menu-three .main-menu__list>li>a {
+  color: black;
 }
 
 .main-menu-three .main-menu__list>li.current>a,
@@ -10853,3 +10857,7 @@ ul {
 /*--------------------------------------------------------------
 # Site Footer
 --------------------------------------------------------------*/
+
+#brands .item {
+  background-color: red !important;
+}

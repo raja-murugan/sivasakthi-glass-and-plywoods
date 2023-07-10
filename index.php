@@ -16,10 +16,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
 
-    <link href="../../css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-
-    <link href="../../css2-1?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&amp;display=swap" rel="stylesheet">
 
 
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css">
@@ -54,157 +54,13 @@
     <!-- <div class="custom-cursor__cursor"></div>
     <div class="custom-cursor__cursor-two"></div> -->
 
-
-
-
-
+    
     <div class="preloader">
         <div class="preloader__image"></div>
     </div>
     <!-- /.preloader -->
-
-
     <div class="page-wrapper">
-        <header class="main-header clearfix">
-            <div class="main-header__top">
-                <div class="container">
-                    <div class="main-header__top-inner clearfix">
-                        <div class="main-header__top-left">
-                            <div class="main-header__top-logo">
-                                <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
-                            </div>
-                        </div>
-                        <div class="main-header__top-right">
-                            <ul class="list-unstyled main-header__top-contact">
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-location"></span>
-                                    </div>
-                                    <div class="content">
-                                        <p>Quick Location</p>
-                                        <h5>#14 barlin, Germany</h5>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-email-1"></span>
-                                    </div>
-                                    <div class="content">
-                                        <p>Quick Email Now!</p>
-                                        <h5><a href="mailto:helpus24@gmail.com">helpus24@gmail.com</a></h5>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <span class="icon-phone"></span>
-                                    </div>
-                                    <div class="content">
-                                        <p>Phone Number</p>
-                                        <h5><a href="tel:88001152">(88) 00-11-52 Call</a></h5>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <nav class="main-menu clearfix">
-                <div class="main-menu__wrapper clearfix">
-                    <div class="container">
-                        <div class="main-menu__wrapper-inner clearfix">
-                            <div class="main-menu__left">
-                                <div class="main-menu__main-menu-box">
-                                    <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
-                                    <ul class="main-menu__list">
-                                        <li class="dropdown current">
-                                            <a href="index.html">Home </a>
-                                            <ul>
-                                                <li><a href="index.html">Home One</a></li>
-                                                <li><a href="index2.html">Home Two</a></li>
-                                                <li><a href="index3.html">Home Three</a></li>
-                                                <li class="dropdown">
-                                                    <a href="#">Header Styles</a>
-                                                    <ul>
-                                                        <li><a href="index.html">Header One</a></li>
-                                                        <li><a href="index2.html">Header Two</a></li>
-                                                        <li><a href="index3.html">Header Three</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a href="#">Services</a>
-                                            <ul>
-                                                <li><a href="services.html">Services</a></li>
-                                                <li><a href="services-carousel.html">Services Carousel</a></li>
-                                                <li><a href="handmade-fruniture.html">Handmade Fruniture</a></li>
-                                                <li><a href="outdoor-designing.html">Outdoor Designing</a></li>
-                                                <li><a href="kitchen-modeling.html">Kitchen Modeling</a></li>
-                                                <li><a href="wood-fruniture.html">Wood Fruniture</a></li>
-                                                <li><a href="celling-roofing.html">Celling & Roofing</a></li>
-                                                <li><a href="office-renovation.html">Office Renovation</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="about.html">About</a>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a href="#">Projects</a>
-                                            <ul>
-                                                <li><a href="project-01.html">Projects One</a></li>
-                                                <li><a href="project-02.html">Projects Two</a></li>
-                                                <li><a href="project-carousel.html">Project Carousel</a></li>
-                                                <li><a href="door-wood-work.html">Door Wood Work</a></li>
-                                                <li><a href="hardwood-flooring.html">Hardwood Flooring</a></li>
-                                                <li><a href="commercial-work.html">Commercial work</a></li>
-                                                <li><a href="furniture-designing.html">Furniture Designing</a></li>
-                                                <li><a href="carpentry.html">Carpentry</a></li>
-                                                <li><a href="heavy-room.html">Heavy room</a></li>
-                                                <li><a href="hardwood-wall.html">Hardwood wall</a></li>
-                                                <li><a href="house-renovation.html">House Renovation</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a href="#">Page</a>
-                                            <ul>
-                                                <li><a href="team.html">Team</a></li>
-                                                <li><a href="team-carousel.html">Team Carousel</a></li>
-                                                <li><a href="testimonial.html">Testimonials</a></li>
-                                                <li><a href="testimonial-carousel.html">Testimonials Carousel</a></li>
-                                                <li><a href="faq.html">FAQs</a></li>
-                                                <li><a href="404.html">404 Error</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a href="#">Blog</a>
-                                            <ul>
-                                                <li><a href="blog.html">Blog</a></li>
-                                                <li><a href="blog-carousel.html">Blog Carousel</a></li>
-                                                <li><a href="blog-list.html">Blog List</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            <a href="contact.html">Contact</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="main-menu__right">
-                                <div class="main-menu__search-btn">
-                                    <div class="main-menu__search-box">
-                                        <a href="#" class="main-menu__search search-toggler icon-search-1"></a>
-                                    </div>
-                                    <div class="main-menu__btn-box">
-                                        <a href="contact.html">Request Book</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </nav>
-        </header>
+        <?php include('header.php') ?>
 
         <div class="stricky-header stricked-menu main-menu">
             <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
@@ -239,9 +95,8 @@
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">Quality Wood Work</p>
-                                        <h2 class="main-slider__title">We Provide the <br> quality Carpentry <br>
-                                            Services</h2>
+                                        <p class="main-slider__sub-title">Sivasakthi Glass and Playwoods</p>
+                                        <h2 class="main-slider__title">Elegant Woodwork,<br /> Stylish Glass <br>Works</h2>
                                         <div class="main-slider__btn-box">
                                             <a href="services.html" class="thm-btn main-slider__btn">Our Services</a>
                                         </div>
@@ -262,9 +117,8 @@
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">Quality Wood Work</p>
-                                        <h2 class="main-slider__title">We Provide the <br> quality Carpentry <br>
-                                            Services</h2>
+                                        <p class="main-slider__sub-title">Sivasakthi Plywoods and Glassdoors</p>
+                                        <h2 class="main-slider__title">Expert Plywood,<br/>Stunning Glass<br/> Doors</h2>
                                         <div class="main-slider__btn-box">
                                             <a href="services.html" class="thm-btn main-slider__btn">Our Services</a>
                                         </div>
@@ -285,7 +139,7 @@
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">Quality Wood Work</p>
+                                        <p class="main-slider__sub-title">Quality Plywoods and Glassdoors</p>
                                         <h2 class="main-slider__title">We Provide the <br> quality Carpentry <br>
                                             Services</h2>
                                         <div class="main-slider__btn-box">
@@ -315,7 +169,7 @@
         <!--Main Slider End-->
 
         <!--Famous Company Start-->
-        <section class="famous-company">
+        <section class="famous-company d-none">
             <div class="famous-company-shape-1 float-bob-x">
                 <img src="assets/images/shapes/famous-company-shape-1.png" alt="">
             </div>
@@ -327,8 +181,8 @@
                             <div class="famous-company__icon">
                                 <img src="assets/images/icon/famous-company-icon-1.png" alt="">
                             </div>
-                            <h3 class="famous-company__title"><a href="carpentry.html">Creative Carpentry</a></h3>
-                            <p class="famous-company__text">Lorem ipsum dolor sitame aenean are is mode </p>
+                            <h3 class="famous-company__title"><a href="carpentry.html">Creative works</a></h3>
+                            <p class="famous-company__text">Expressive Woodworking at Its Finest</p>
                             <div class="famous-company__read-more">
                                 <a href="carpentry.html">
                                     <i class="fas fa-arrow-right"></i>
@@ -346,7 +200,7 @@
                                 <img src="assets/images/icon/famous-company-icon-2.png" alt="">
                             </div>
                             <h3 class="famous-company__title"><a href="about.html">Certified Materials</a></h3>
-                            <p class="famous-company__text">Lorem ipsum dolor sitame aenean are is mode </p>
+                            <p class="famous-company__text">Trusted Source for Certified Materials </p>
                             <div class="famous-company__read-more">
                                 <a href="about.html">
                                     <i class="fas fa-arrow-right"></i>
@@ -364,7 +218,7 @@
                                 <img src="assets/images/icon/famous-company-icon-3.png" alt="">
                             </div>
                             <h3 class="famous-company__title"><a href="about.html"> Very Cheap Rates</a></h3>
-                            <p class="famous-company__text">Lorem ipsum dolor sitame aenean are is mode </p>
+                            <p class="famous-company__text">Budget-Friendly Options without Compromise </p>
                             <div class="famous-company__read-more">
                                 <a href="about.html">
                                     <i class="fas fa-arrow-right"></i>
@@ -381,8 +235,8 @@
                             <div class="famous-company__icon">
                                 <img src="assets/images/icon/famous-company-icon-4.png" alt="">
                             </div>
-                            <h3 class="famous-company__title"><a href="kitchen-modeling.html">Kitchen Modeling</a></h3>
-                            <p class="famous-company__text">Lorem ipsum dolor sitame aenean are is mode </p>
+                            <h3 class="famous-company__title"><a href="kitchen-modeling.html">Quality Materials</a></h3>
+                            <p class="famous-company__text">Finest Selection of High-Quality Materials </p>
                             <div class="famous-company__read-more">
                                 <a href="#">
                                     <i class="fas fa-arrow-right"></i>
@@ -399,7 +253,7 @@
         <!--Famous Company End-->
 
         <!--Why Choose One Start-->
-        <section class="why-choose-one">
+        <section class="why-choose-one pt-5 ">
             <div class="why-choose-one-shape float-bob-x">
                 <img src="assets/images/shapes/why-choose-one-shape-1.png" alt="">
             </div>
@@ -436,11 +290,9 @@
                         <div class="why-choose-one__right">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">our journey</span>
-                                <h2 class="section-title__title">Welcome to Our Woodza Services</h2>
+                                <h2 class="section-title__title">Welcome to Sivasakthi Plywoods</h2>
                             </div>
-                            <p class="why-choose-one__text-1">We, at Woodza provide all types of carpentry and
-                                carpentry.Lorem ipsum dolor sit amet conse ctetur porro quisquam est, qui dolorem ipsum
-                                quia dolor sit amet </p>
+                            <p class="why-choose-one__text-1">At Sivasakthi glassdoors, we specialize in providing top-notch solutions for glass doors and plywood needs. With years of industry experience, our team of experts is committed to delivering exceptional craftsmanship and premium materials. Whether you're looking for stylish glass doors or durable plywood solutions, we are dedicated to transforming your spaces with our high-quality products.</p>
                             <ul class="list-unstyled why-choose-one__points">
                                 <li>
                                     <div class="icon">
@@ -459,22 +311,6 @@
                                     </div>
                                 </li>
                             </ul>
-                            <p class="why-choose-one__text-2">Over 20 Years’ Experience Providing Top Quality Carpentry
-                                Across world orem ipsum dolor sit amet consectetur </p>
-                            <div class="why-choose-one__bottom">
-                                <div class="why-choose-one__bottom-content">
-                                    <p class="why-choose-one__bottom-text">We Creating unique and personalized woodwork.
-                                    </p>
-                                </div>
-                                <div class="why-choose-one__user">
-                                    <div class="why-choose-one__user-img">
-                                        <img src="assets/images/resources/why-choose-one-user-img.jpg" alt="">
-                                    </div>
-                                    <div class="why-choose-one__user-sign">
-                                        <img src="assets/images/resources/why-choose-one-user-sign.png" alt="">
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -502,12 +338,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-table"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="wood-fruniture.html">Wooden Furniture</a></h3>
-                                <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula
-                                    lorem ipsum</p>
-                                <div class="services-one__arrow">
-                                    <a href="wood-fruniture.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
+                                <h3 class="services-one__title"><a href="wood-fruniture.html">Plywoods</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -523,12 +354,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-chainsaw"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="services.html">Home Renovation</a></h3>
-                                <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula
-                                    lorem ipsum</p>
-                                <div class="services-one__arrow">
-                                    <a href="services.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
+                                <h3 class="services-one__title"><a href="services.html">Modular Kitchen</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -544,12 +370,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-wood-pile"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="services.html">Hardwook work</a></h3>
-                                <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula
-                                    lorem ipsum</p>
-                                <div class="services-one__arrow">
-                                    <a href="services.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
+                                <h3 class="services-one__title"><a href="services.html">Hardwares</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -565,12 +386,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-table"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="wood-fruniture.html">Wooden Furniture</a></h3>
-                                <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula
-                                    lorem ipsum</p>
-                                <div class="services-one__arrow">
-                                    <a href="wood-fruniture.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
+                                <h3 class="services-one__title"><a href="wood-fruniture.html">Mica Sheets</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -582,7 +398,7 @@
         <!--Services One End-->
 
         <!--Working Process Start-->
-        <section class="working-process">
+        <section class="working-process d-none">
             <div class="working-process-shpae-one" style="background-image: url(assets/images/shapes/working-process-shape-1.png);"></div>
             <div class="container">
                 <div class="working-process__title-box">
@@ -641,7 +457,7 @@
         <!--Working Process End-->
 
         <!--Problem Solved Start-->
-        <section class="problem-solved">
+        <section class="problem-solved d-none">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6">
@@ -692,8 +508,7 @@
                         </div>
                         <div class="col-xl-5 col-lg-6">
                             <div class="project-one__text-box">
-                                <p class="project-one__text">Lorem Ipsum available, but the majority have suffered
-                                    dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua ipsum quia </p>
+                                <p class="project-one__text">Discover our impressive portfolio of completed projects, showcasing our expertise in crafting exquisite glass doors and utilizing versatile plywood solutions. From residential renovations to commercial installations, we take pride in delivering stunning results that exceed expectations.</p>
                             </div>
                         </div>
                     </div>
@@ -981,7 +796,7 @@
                                 to get things done.</h2>
                         </div>
                         <div class="project-one__bottom-btn-box">
-                            <a href="project-01.html" class="thm-btn project-one__bottom-btn">View All Project</a>
+                            <a href="projects.php" class="thm-btn project-one__bottom-btn">View All Project</a>
                         </div>
                     </div>
                 </div>
@@ -990,7 +805,7 @@
         <!--Project One End-->
 
         <!--Team One Start-->
-        <section class="team-one">
+        <section class="team-one d-none">
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">Team Member</span>
@@ -1273,8 +1088,198 @@
         </section>
         <!--Testimonial One End-->
 
+        <!--Testimonial One Start-->
+        <section class="testimonial-one" id="brands">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-lg-4 d-flex justify-content-center align-items-center">
+                        <div class="testimonial-one__left">
+                            <div class="section-title">
+                                <h2 class="">Trusted Brands</h2>
+                            </div>    
+                        </div>
+                    </div>
+                    <div class="col-lg-8">
+                        <div class="testimonial-one__right">
+                            <div class="testimonial-one__carousel owl-carousel owl-theme thm-owl__carousel" data-owl-options='{
+                                "loop": true,
+                                "autoplay": true,
+                                "margin": 30,
+                                "nav": false,
+                                "dots": true,
+                                "smartSpeed": 500,
+                                "autoplayTimeout": 10000,
+                                "navText": ["<span class=\"icon-left-arrow-4\"></span>","<span class=\"icon-right-arrow-4\"></span>"],
+                                "responsive": {
+                                    "0": {
+                                        "items": 2
+                                    },
+                                    "768": {
+                                        "items": 3
+                                    },
+                                    "992": {
+                                        "items": 5
+                                    },
+                                    "1200": {
+                                        "items": 5
+                                    }
+                                }
+                            }'>
+                                <!--Testimonial One Single Start-->
+                                <div class="item">
+                                    <img src="assets/images/brands/1.jpeg" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/2.jpg" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/3.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/4.jpeg" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/5.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/6.jpeg" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/7.Png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/9.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/11.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/13.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/15.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/17.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/19.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/20.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/21.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/22.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/23.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/24.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/25.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/26.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/27.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/28.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/29.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/30.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/31.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/32.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/33.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/34.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/35.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/36.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/37.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/38.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/39.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/40.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/41.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/42.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/43.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/44.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/45.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/46.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/47.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/49.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/50.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/51.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/52.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/53.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/54.png" alt="">
+                                </div>
+                                <div class="item">
+                                    <img src="assets/images/brands/55.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Testimonial One End-->
+
         <!--Blog One Start-->
-        <section class="blog-one">
+        <section class="blog-one d-none">
             <div class="blog-one-bg" style="background-image: url(assets/images/backgrounds/blog-one-bg.jpg);"></div>
             <div class="container">
                 <div class="blog-one__top">
@@ -1395,209 +1400,4 @@
             </div>
         </section>
         <!--Blog One End-->
-
-        <!--Site Footer Start-->
-        <footer class="site-footer">
-            <div class="site-footer-bg" style="background-image: url(assets/images/backgrounds/site-footer-bg.jpg);">
-            </div>
-            <div class="site-footer__top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-                            <div class="footer-widget__column footer-widget__about">
-                                <div class="footer-widget__logo">
-                                    <a href="index.html"><img src="assets/images/resources/footer-logo.png" alt=""></a>
-                                </div>
-                                <div class="footer-widget__about-text-box">
-                                    <p class="footer-widget__about-text">Subscribe us and get latest news, tips and
-                                        updates to your inbox </p>
-                                </div>
-                                <form class="footer-widget__subscribe-box">
-                                    <div class="footer-widget__subscribe-input-box">
-                                        <input type="email" placeholder="Email address" name="email">
-                                        <button type="submit" class="footer-widget__subscribe-btn"><i class="far fa-paper-plane"></i></button>
-                                    </div>
-                                </form>
-                                <div class="site-footer__social">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                            <div class="footer-widget__column footer-widget__service clearfix">
-                                <div class="footer-widget__title-box">
-                                    <h3 class="footer-widget__title">Services</h3>
-                                </div>
-                                <ul class="footer-widget__service-list list-unstyled clearfix">
-                                    <li><a href="carpentry.html">Carpentry</a></li>
-                                    <li><a href="hardwood-flooring.html">Hardwood flooring</a></li>
-                                    <li><a href="celling-roofing.html">Ceiling & roofing</a></li>
-                                    <li><a href="heavy-room.html">Heavy room</a></li>
-                                    <li><a href="house-renovation.html">House Renovation</a></li>
-                                    <li><a href="hardwood-wall.html">Hardwood wall</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                            <div class="footer-widget__column footer-widget__link clearfix">
-                                <div class="footer-widget__title-box">
-                                    <h3 class="footer-widget__title">Other Link</h3>
-                                </div>
-                                <ul class="footer-widget__link-list list-unstyled clearfix">
-                                    <li><a href="index.html">Home</a></li>
-                                    <li><a href="about.html">About us</a></li>
-                                    <li><a href="testimonial.html">Testimonials</a></li>
-                                    <li><a href="blog.html">News & media</a></li>
-                                    <li><a href="project-01.html">Our projects</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-                            <div class="footer-widget__column footer-widget__contact clearfix">
-                                <div class="footer-widget__title-box">
-                                    <h3 class="footer-widget__title">Contact</h3>
-                                </div>
-                                <ul class="footer-widget__contact-list list-unstyled clearfix">
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-email-1"></span>
-                                        </div>
-                                        <div class="text">
-                                            <p><a href="mailto:helpus24@gmail.com">helpus24@gmail.com</a></p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-phone"></span>
-                                        </div>
-                                        <div class="text">
-                                            <p><a href="tel:0881122334455">+088 11 22 33 44 55</a></p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="icon">
-                                            <span class="icon-location"></span>
-                                        </div>
-                                        <div class="text">
-                                            <p>London RA4, Suite 405 England, UK</p>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="site-footer__bottom">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <div class="site-footer__bottom-inner">
-                                <p class="site-footer__bottom-text">© 2022 <a href="#">woodza.com</a> All Rights
-                                    Reserved</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!--Site Footer End-->
-
-
-    </div><!-- /.page-wrapper -->
-
-
-    <div class="mobile-nav__wrapper">
-        <div class="mobile-nav__overlay mobile-nav__toggler"></div>
-        <!-- /.mobile-nav__overlay -->
-        <div class="mobile-nav__content">
-            <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
-
-            <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/resources/footer-logo.png" width="143" alt=""></a>
-            </div>
-            <!-- /.logo-box -->
-            <div class="mobile-nav__container"></div>
-            <!-- /.mobile-nav__container -->
-
-            <ul class="mobile-nav__contact list-unstyled">
-                <li>
-                    <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">needhelp@woodza.com</a>
-                </li>
-                <li>
-                    <i class="fa fa-phone-alt"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
-                </li>
-            </ul><!-- /.mobile-nav__contact -->
-            <div class="mobile-nav__top">
-                <div class="mobile-nav__social">
-                    <a href="#" class="fab fa-twitter"></a>
-                    <a href="#" class="fab fa-facebook-square"></a>
-                    <a href="#" class="fab fa-pinterest-p"></a>
-                    <a href="#" class="fab fa-instagram"></a>
-                </div><!-- /.mobile-nav__social -->
-            </div><!-- /.mobile-nav__top -->
-
-
-
-        </div>
-        <!-- /.mobile-nav__content -->
-    </div>
-    <!-- /.mobile-nav__wrapper -->
-
-    <div class="search-popup">
-        <div class="search-popup__overlay search-toggler"></div>
-        <!-- /.search-popup__overlay -->
-        <div class="search-popup__content">
-            <form action="#">
-                <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
-                <input type="text" id="search" placeholder="Search Here...">
-                <button type="submit" aria-label="search submit" class="thm-btn">
-                    <i class="icon-search-1"></i>
-                </button>
-            </form>
-        </div>
-        <!-- /.search-popup__content -->
-    </div>
-    <!-- /.search-popup -->
-
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="fa fa-angle-up"></i></a>
-
-
-    <script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>
-    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendors/jarallax/jarallax.min.js"></script>
-    <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
-    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
-    <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
-    <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
-    <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
-    <script src="assets/vendors/nouislider/nouislider.min.js"></script>
-    <script src="assets/vendors/odometer/odometer.min.js"></script>
-    <script src="assets/vendors/swiper/swiper.min.js"></script>
-    <script src="assets/vendors/tiny-slider/tiny-slider.min.js"></script>
-    <script src="assets/vendors/wnumb/wNumb.min.js"></script>
-    <script src="assets/vendors/wow/wow.js"></script>
-    <script src="assets/vendors/isotope/isotope.js"></script>
-    <script src="assets/vendors/countdown/countdown.min.js"></script>
-    <script src="assets/vendors/owl-carousel/owl.carousel.min.js"></script>
-    <script src="assets/vendors/bxslider/jquery.bxslider.min.js"></script>
-    <script src="assets/vendors/bootstrap-select/js/bootstrap-select.min.js"></script>
-    <script src="assets/vendors/vegas/vegas.min.js"></script>
-    <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
-    <script src="assets/vendors/timepicker/timePicker.js"></script>
-    <script src="assets/vendors/circleType/jquery.circleType.js"></script>
-    <script src="assets/vendors/circleType/jquery.lettering.min.js"></script>
-    <script src="assets/vendors/polyglot-language-switcher/jquery.polyglot.language.switcher.js"></script>
-
-
-
-
-    <!-- template js -->
-    <script src="assets/js/woodza.js"></script>
-</body>
-
-</html>
+<?php include('footer.php') ?>
