@@ -96,21 +96,105 @@
                     <span class="section-title__tagline">our Services</span>
                     <h2 class="section-title__title">Some Of Our Services</h2>
                 </div>
-                <div class="row">
+                <div class="row">            
                     <!--Services One Single Start-->
                     <div class="col-xl-3 col-lg-6 col-md-6">
                         <div class="services-one__single">
                             <div class="services-one__img">
-                                <img src="assets/images/services/services-1-1.jpg" alt="">
+                                <img src="assets/images/glass doors.jpeg" alt="">
                             </div>
                             <div class="services-one__content">
                                 <div class="services-one__icon">
-                                    <span class="icon-table"></span>
+                                    <span class="icon-wood-pile"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="wood-fruniture.html">Wooden Furniture</a></h3>
-                                <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
+                                <h3 class="services-one__title"><a href="services.html">Glass Doors</a></h3>
+                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
                                 <div class="services-one__arrow">
-                                    <a href="wood-fruniture.html"><i class="fas fa-arrow-right"></i></a>
+                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                            <div class="services-one__shape-1"></div>
+                        </div>
+                    </div>
+                    <!--Services One Single End-->
+
+                    <!--Services One Single Start-->
+                    <div class="col-xl-3 col-lg-6 col-md-6">
+                        <div class="services-one__single">
+                            <div class="services-one__img">
+                                <img src="assets/images/wood4.jpeg" alt="">
+                            </div>
+                            <div class="services-one__content">
+                                <div class="services-one__icon">
+                                    <span class="icon-wood-pile"></span>
+                                </div>
+                                <h3 class="services-one__title"><a href="services.html"> Doors</a></h3>
+                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
+                                <div class="services-one__arrow">
+                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                            <div class="services-one__shape-1"></div>
+                        </div>
+                    </div>
+                    <!--Services One Single End-->
+
+                    <!--Services One Single Start-->
+                    <div class="col-xl-3 col-lg-6 col-md-6">
+                        <div class="services-one__single">
+                            <div class="services-one__img">
+                                <img src="assets/images/doorhandels.jpeg" alt="">
+                            </div>
+                            <div class="services-one__content">
+                                <div class="services-one__icon">
+                                    <span class="icon-wood-pile"></span>
+                                </div>
+                                <h3 class="services-one__title"><a href="services.html">Door handels <br>Door locks</a></h3>
+                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
+                                <div class="services-one__arrow">
+                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                            <div class="services-one__shape-1"></div>
+                        </div>
+                    </div>
+                    <!--Services One Single End-->
+
+                    <!--Services One Single Start-->
+                    <div class="col-xl-3 col-lg-6 col-md-6">
+                        <div class="services-one__single">
+                            <div class="services-one__img">
+                                <img src="assets/images/window.jpeg" alt="">
+                            </div>
+                            <div class="services-one__content">
+                                <div class="services-one__icon">
+                                    <span class="icon-wood-pile"></span>
+                                </div>
+                                <h3 class="services-one__title"><a href="services.html">Window glasses</a></h3>
+                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
+                                <div class="services-one__arrow">
+                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                            <div class="services-one__shape-1"></div>
+                        </div>
+                    </div>
+                    <!--Services One Single End-->
+                  
+                    <!--Services One Single Start-->
+                    <div class="col-xl-3 col-lg-6 col-md-6">
+                        <div class="services-one__single">
+                            <div class="services-one__img">
+                                <img src="assets/images/platform1.jpeg" alt="">
+                            </div>
+                            <div class="services-one__content">
+                                <div class="services-one__icon">
+                                    <span class="icon-wood-pile"></span>
+                                </div>
+                                <h3 class="services-one__title"><a href="services.html">PlatForm Sheet</a></h3>
+                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
+                                <div class="services-one__arrow">
+                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                             <div class="services-one__shape-1"></div>
@@ -121,16 +205,36 @@
                     <div class="col-xl-3 col-lg-6 col-md-6">
                         <div class="services-one__single">
                             <div class="services-one__img">
-                                <img src="assets/images/services/services-1-2.jpg" alt="">
+                                <img src="assets/images/mdf1.jpeg" alt="">
                             </div>
                             <div class="services-one__content">
                                 <div class="services-one__icon">
-                                    <span class="icon-chainsaw"></span>
+                                    <span class="icon-wood-pile"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="services.html">Home Renovation</a></h3>
-                                <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
+                                <h3 class="services-one__title"><a href="services.html">MDF SHEET</a></h3>
+                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
                                 <div class="services-one__arrow">
-                                    <a href="services.html"><i class="fas fa-arrow-right"></i></a>
+                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                            <div class="services-one__shape-1"></div>
+                        </div>
+                    </div>
+                    <!--Services One Single End-->
+                    <!--Services One Single Start-->
+                    <div class="col-xl-3 col-lg-6 col-md-6">
+                        <div class="services-one__single">
+                            <div class="services-one__img">
+                                <img src="assets/images/ply1.jpeg" alt="">
+                            </div>
+                            <div class="services-one__content">
+                                <div class="services-one__icon">
+                                    <span class="icon-wood-pile"></span>
+                                </div>
+                                <h3 class="services-one__title"><a href="services.html">PLY WOOD</a></h3>
+                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
+                                <div class="services-one__arrow">
+                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                             <div class="services-one__shape-1"></div>
@@ -147,110 +251,10 @@
                                 <div class="services-one__icon">
                                     <span class="icon-wood-pile"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="services.html">Hardwook work</a></h3>
-                                <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
+                                <h3 class="services-one__title"><a href="services.html">Kitchen Modelus</a></h3>
+                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
                                 <div class="services-one__arrow">
-                                    <a href="services.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                            <div class="services-one__shape-1"></div>
-                        </div>
-                    </div>
-                    <!--Services One Single End-->
-                    <!--Services One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="services-one__single">
-                            <div class="services-one__img">
-                                <img src="assets/images/services/services-1-4.jpg" alt="">
-                            </div>
-                            <div class="services-one__content">
-                                <div class="services-one__icon">
-                                    <span class="icon-table"></span>
-                                </div>
-                                <h3 class="services-one__title"><a href="wood-fruniture.html">Wooden Furniture</a></h3>
-                                <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
-                                <div class="services-one__arrow">
-                                    <a href="wood-fruniture.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                            <div class="services-one__shape-1"></div>
-                        </div>
-                    </div>
-                    <!--Services One Single End-->
-                    <!--Services One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="services-one__single">
-                            <div class="services-one__img">
-                                <img src="assets/images/services/services-1-5.jpg" alt="">
-                            </div>
-                            <div class="services-one__content">
-                                <div class="services-one__icon">
-                                    <span class="icon-restaurant-kitchen"></span>
-                                </div>
-                                <h3 class="services-one__title"><a href="kitchen-modeling.html">Kitchen Modeling</a></h3>
-                                <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
-                                <div class="services-one__arrow">
-                                    <a href="kitchen-modeling.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                            <div class="services-one__shape-1"></div>
-                        </div>
-                    </div>
-                    <!--Services One Single End-->
-                    <!--Services One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="services-one__single">
-                            <div class="services-one__img">
-                                <img src="assets/images/services/services-1-6.jpg" alt="">
-                            </div>
-                            <div class="services-one__content">
-                                <div class="services-one__icon">
-                                    <span class="icon-outdoor-table-wood"></span>
-                                </div>
-                                <h3 class="services-one__title"><a href="outdoor-designing.html">Outdoor Designing</a></h3>
-                                <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
-                                <div class="services-one__arrow">
-                                    <a href="outdoor-designing.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                            <div class="services-one__shape-1"></div>
-                        </div>
-                    </div>
-                    <!--Services One Single End-->
-                    <!--Services One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="services-one__single">
-                            <div class="services-one__img">
-                                <img src="assets/images/services/services-1-7.jpg" alt="">
-                            </div>
-                            <div class="services-one__content">
-                                <div class="services-one__icon">
-                                    <span class="icon-window"></span>
-                                </div>
-                                <h3 class="services-one__title"><a href="outdoor-designing.html">Doors & Windows</a></h3>
-                                <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
-                                <div class="services-one__arrow">
-                                    <a href="outdoor-designing.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                            <div class="services-one__shape-1"></div>
-                        </div>
-                    </div>
-                    <!--Services One Single End-->
-                    <!--Services One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="services-one__single">
-                            <div class="services-one__img">
-                                <img src="assets/images/services/services-1-8.jpg" alt="">
-                            </div>
-                            <div class="services-one__content">
-                                <div class="services-one__icon">
-                                    <span class="icon-roof"></span>
-                                </div>
-                                <h3 class="services-one__title"><a href="celling-roofing.html">Celing & Roofing</a></h3>
-                                <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
-                                <div class="services-one__arrow">
-                                    <a href="celling-roofing.html"><i class="fas fa-arrow-right"></i></a>
+                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                             <div class="services-one__shape-1"></div>
