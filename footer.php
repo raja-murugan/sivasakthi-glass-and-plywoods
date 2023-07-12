@@ -6,21 +6,11 @@
             <div class="site-footer__top">
                 <div class="container">
                     <div class="row">
-                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="col-xl-3 col-lg-4 col-md-4 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__logo">
                                     <a href="index.html"><img src="assets/images/resources/footer-logo.png" alt=""></a>
                                 </div>
-                                <div class="footer-widget__about-text-box">
-                                    <p class="footer-widget__about-text">Subscribe us and get latest news, tips and
-                                        updates to your inbox </p>
-                                </div>
-                                <form class="footer-widget__subscribe-box">
-                                    <div class="footer-widget__subscribe-input-box">
-                                        <input type="email" placeholder="Email address" name="email">
-                                        <button type="submit" class="footer-widget__subscribe-btn"><i class="far fa-paper-plane"></i></button>
-                                    </div>
-                                </form>
                                 <div class="site-footer__social">
                                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -34,30 +24,30 @@
                                     <h3 class="footer-widget__title">Services</h3>
                                 </div>
                                 <ul class="footer-widget__service-list list-unstyled clearfix">
-                                    <li><a href="">Carpentry</a></li>
-                                    <li><a href="">Hardwood flooring</a></li>
-                                    <li><a href="">Ceiling & roofing</a></li>
-                                    <li><a href="">Heavy room</a></li>
-                                    <li><a href="">House Renovation</a></li>
-                                    <li><a href="">Hardwood wall</a></li>
+                                    <li><a href="">Glassdoors</a></li>
+                                    <li><a href="">Plywoods</a></li>
+                                    <!-- <li><a href="">Mica Works</a></li> -->
+                                    <li><a href="">Platform Sheets</a></li>
+                                    <li><a href="">Modular Kitchen</a></li>
+                                    <li><a href="">Glass Printing</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                             <div class="footer-widget__column footer-widget__link clearfix">
                                 <div class="footer-widget__title-box">
-                                    <h3 class="footer-widget__title">Other Link</h3>
+                                    <h3 class="footer-widget__title">Quick Links</h3>
                                 </div>
                                 <ul class="footer-widget__link-list list-unstyled clearfix">
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="about.php">About us</a></li>
                                     <li><a href="projects.php">Projects</a></li>
                                     <li><a href="services.php">Services</a></li>
-                                    <li><a href="contact-us.php">Contact US</a></li>
+                                    <li><a href="contact-us.php">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                             <div class="footer-widget__column footer-widget__contact clearfix">
                                 <div class="footer-widget__title-box">
                                     <h3 class="footer-widget__title">Contact</h3>
@@ -68,7 +58,7 @@
                                             <span class="icon-email-1"></span>
                                         </div>
                                         <div class="text">
-                                            <p><a href="mailto:helpus24@gmail.com">helpus24@gmail.com</a></p>
+                                            <p><a href="mailto:helpus24@gmail.com">trichysivasakthi@gmail.com</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -76,7 +66,7 @@
                                             <span class="icon-phone"></span>
                                         </div>
                                         <div class="text">
-                                            <p><a href="tel:0881122334455">+088 11 22 33 44 55</a></p>
+                                            <p><a href="tel:+91 95666 20099">+91 95666 20099</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -84,7 +74,7 @@
                                             <span class="icon-location"></span>
                                         </div>
                                         <div class="text">
-                                            <p>London RA4, Suite 405 England, UK</p>
+                                            <p>Kamaraj Nagar, Opp. Reliance Market, Ariyamangalam, Trichy - 620 010</p>
                                         </div>
                                     </li>
                                 </ul>
@@ -98,7 +88,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="site-footer__bottom-inner">
-                                <p class="site-footer__bottom-text">© 2022 <a href="#">woodza.com</a> All Rights
+                                <p class="site-footer__bottom-text">© 2023 <a href="#">Sivasaktih Plywoods</a> All Rights
                                     Reserved</p>
                             </div>
                         </div>
