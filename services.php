@@ -149,7 +149,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-wood-pile"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="services.html">Door handels <br>Door locks</a></h3>
+                                <h3 class="services-one__title"><a href="services.html"> Handels & Locks</a></h3>
                                 <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
                                 <div class="services-one__arrow">
                                     <a href="#"><i class="fas fa-arrow-right"></i></a>
