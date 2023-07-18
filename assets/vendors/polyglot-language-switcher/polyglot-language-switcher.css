@@ -125,14 +125,14 @@
     padding: 4px 0px;
     display: block;
     background: var(--woodza-black);
-    border-top: 1px solid #db5e41;
-    border-bottom: 1px solid #db5e41;
+    border-top: 1px solid #0394de;
+    border-bottom: 1px solid #0394de;
     border-radius: 0;
     transition: all 0.2s ease-in-out;
 }
 
 #polyglotLanguageSwitcher ul.dropdown li:hover {
-    background: #db5e41
+    background: #0394de;
 }
 
 #polyglotLanguageSwitcher ul.dropdown li:first-child {

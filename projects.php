@@ -77,11 +77,11 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Projects</h2>
+                    <h2>Products</h2>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.html">Home</a></li>
                         <li><span>/</span></li>
-                        <li>Our Projects</li>
+                        <li>Our Products</li>
                     </ul>
                 </div>
             </div>
@@ -123,7 +123,7 @@
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="kitchen-modeling.html">Kitchen Modeling</a></h3>
+                                    <h3 class="project-two__title"><a href="kitchen-modeling.html">Glass</a></h3>
                                     <p class="project-two__sub-title">Furniture design</p>
                                 </div>
                                 <div class="project-two__arrow">
@@ -141,7 +141,7 @@
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="door-wood-work.html">Door Wood Work</a></h3>
+                                    <h3 class="project-two__title"><a href="door-wood-work.html">Door</a></h3>
                                     <p class="project-two__sub-title">Furniture design</p>
                                 </div>
                                 <div class="project-two__arrow">
@@ -159,7 +159,7 @@
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="furniture-designing.html">Hardwood Flooring</a></h3>
+                                    <h3 class="project-two__title"><a href="furniture-designing.html">Plywood</a></h3>
                                     <p class="project-two__sub-title">Furniture design</p>
                                 </div>
                                 <div class="project-two__arrow">
@@ -177,7 +177,7 @@
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="celling-roofing.html">Ceiling & Roofing</a></h3>
+                                    <h3 class="project-two__title"><a href="celling-roofing.html">Platform Sheet</a></h3>
                                     <p class="project-two__sub-title">Furniture design</p>
                                 </div>
                                 <div class="project-two__arrow">
@@ -195,7 +195,7 @@
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="commercial-work.html">Commercial work</a></h3>
+                                    <h3 class="project-two__title"><a href="commercial-work.html">Kitchen Equipments</a></h3>
                                     <p class="project-two__sub-title">Furniture design</p>
                                 </div>
                                 <div class="project-two__arrow">
@@ -213,7 +213,7 @@
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="furniture-designing.html">Furniture Designing</a></h3>
+                                    <h3 class="project-two__title"><a href="furniture-designing.html">Hardware Material</a></h3>
                                     <p class="project-two__sub-title">Furniture design</p>
                                 </div>
                                 <div class="project-two__arrow">
@@ -231,7 +231,7 @@
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="kitchen-modeling.html">Kitchen Modeling</a></h3>
+                                    <h3 class="project-two__title"><a href="kitchen-modeling.html">Sheets</a></h3>
                                     <p class="project-two__sub-title">Furniture design</p>
                                 </div>
                                 <div class="project-two__arrow">
@@ -249,29 +249,11 @@
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="door-wood-work.html">Door Wood Work</a></h3>
+                                    <h3 class="project-two__title"><a href="door-wood-work.html">Safety Locker</a></h3>
                                     <p class="project-two__sub-title">Furniture design</p>
                                 </div>
                                 <div class="project-two__arrow">
                                     <a href="door-wood-work.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project Page One single End-->
-                    <!--Project Page One single Start-->
-                    <div class="item">
-                        <div class="project-two__single">
-                            <div class="project-two__img">
-                                <img src="assets/images/project/project-page-one-1-3.jpg" alt="">
-                            </div>
-                            <div class="project-two__content">
-                                <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="hardwood-flooring.html">Hardwood Flooring</a></h3>
-                                    <p class="project-two__sub-title">Furniture design</p>
-                                </div>
-                                <div class="project-two__arrow">
-                                    <a href="hardwood-flooring.html"><i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

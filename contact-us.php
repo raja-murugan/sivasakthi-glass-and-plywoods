@@ -92,7 +92,7 @@
         <section class="contact-page">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-4 col-lg-5">
+                    <div class="col-xl-5 col-lg-5">
                         <div class="contact-page__left">
                             <h4 class="contact-page__title">Feel free to ask questions or share your message with us.</h4>
                             <p class="contact-page__text-1">You can also reach out to us by phone or email are many variations</p>
@@ -103,8 +103,8 @@
                                     </div>
                                     <div class="content">
                                         <h5>Address</h5>
-                                        <p>KAmaraj Nagar, Opp. Reliance MArket,<br />
-                                            Ariyamangalam,<br /> Trichy - 620 010</p>
+                                        <p>Kamaraj Nagar, Opp. Reliance Market,
+                                            Ariyamangalam, Trichy - 620 010</p>
                                     </div>
                                 </li>
                                 <li>
@@ -134,7 +134,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-xl-8 col-lg-7">
+                    <div class="col-xl-7 col-lg-7">
                         <div class="contact-page__right">
                             <h3 class="contact-page__right-title mb-5">Send a message</h3>
                             <!-- <p class="contact-page__right-text">Lorem ipsum dolor sit amet consectetur adipiscing elit <br> We'd love to hear for you</p> -->

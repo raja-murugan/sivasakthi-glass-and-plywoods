@@ -4,7 +4,7 @@
             <div class="main-header__top-inner clearfix">
                 <div class="main-header__top-left">
                     <div class="main-header__top-logo">
-                        <a href="index.html"><img src="assets/images/resources/logo-1.png" alt=""></a>
+                        <a href="index.html"><img src="assets/images/logo.png" alt="" style="height: 70px; width: 130px;"></a>
                     </div>
                 </div>
                 <div class="main-header__top-right">
@@ -15,7 +15,7 @@
                             </div>
                             <div class="content">
                                 <p>Quick Location</p>
-                                <h5>KAmaraj Nagar, Opp. Reliance MArket, <br/>Ariyamangalam, Trichy - 620 010</h5>
+                                <h5>Kamaraj Nagar, Opp. Reliance Market, <br/>Ariyamangalam, Trichy - 620010</h5>
                             </div>
                         </li>
                         <li>
@@ -33,7 +33,7 @@
                             </div>
                             <div class="content">
                                 <p>Phone Number</p>
-                                <h5><a href="tel:88001152">+91 95666 20099</a></h5>
+                                <h5><a href="tel:+91956620099">+91 95666 20099</a></h5>
                             </div>
                         </li>
                     </ul>
@@ -56,24 +56,21 @@
                                     <a href="about.php">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="Services.php">Services</a>
+                                    <a href="projects.php">Products</a>
                                 </li>
                                 <li>
-                                    <a href="projects.php">Projects</a>
+                                    <a href="brands.php">Brands</a>
                                 </li>
                                 <li>
-                                    <a href="contact.html">Contact Us</a>
+                                    <a href="contact-us.php">Contact Us</a>
                                 </li>
                             </ul>
                         </div>
                     </div>
                     <div class="main-menu__right">
                         <div class="main-menu__search-btn">
-                            <div class="main-menu__search-box">
-                                <a href="#" class="main-menu__search search-toggler icon-search-1"></a>
-                            </div>
                             <div class="main-menu__btn-box">
-                                <a href="contact.html">Request Book</a>
+                                <a href="https://api.whatsapp.com/send/?phone=%2B919566620099">Chat With Us</a>
                             </div>
                         </div>
                     </div>

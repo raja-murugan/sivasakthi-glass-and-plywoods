@@ -288,9 +288,9 @@
                         <div class="why-choose-one__right">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">our journey</span>
-                                <h2 class="section-title__title">Welcome to Sivasakthi Plywoods</h2>
+                                <h2 class="section-title__title">Welcome to Sivasakthi</h2>
                             </div>
-                            <p class="why-choose-one__text-1">At Sivasakthi glassdoors, we specialize in providing top-notch solutions for glass doors and plywood needs. With years of industry experience, our team of experts is committed to delivering exceptional craftsmanship and premium materials. Whether you're looking for stylish glass doors or durable plywood solutions, we are dedicated to transforming your spaces with our high-quality products.</p>
+                            <p class="why-choose-one__text-1">At Sivasakthi, we specialize in providing top-notch solutions for glass doors and plywood needs. With years of industry experience, our team of experts is committed to delivering exceptional craftsmanship and premium materials. Whether you're looking for stylish glass doors or durable plywood solutions, we are dedicated to transforming your spaces with our high-quality products.</p>
                             <ul class="list-unstyled why-choose-one__points">
                                 <li>
                                     <div class="icon">
@@ -322,8 +322,8 @@
             </div>
             <div class="container">
                 <div class="section-title text-center">
-                    <span class="section-title__tagline">our Services</span>
-                    <h2 class="section-title__title">Some Of Our Services</h2>
+                    <span class="section-title__tagline">our Products</span>
+                    <h2 class="section-title__title">Some Of Our Products</h2>
                 </div>
                 <div class="row">
                     <!--Services One Single Start-->
@@ -352,7 +352,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-chainsaw"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="services.html">Modular Kitchen</a></h3>
+                                <h3 class="services-one__title"><a href="services.html">Glass</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -368,7 +368,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-wood-pile"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="services.html">Hardwares</a></h3>
+                                <h3 class="services-one__title"><a href="services.html">Door</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -384,7 +384,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-table"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="wood-fruniture.html">Mica Sheets</a></h3>
+                                <h3 class="services-one__title"><a href="wood-fruniture.html">Locker</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -395,472 +395,13 @@
         </section>
         <!--Services One End-->
 
-        <!--Working Process Start-->
-        <section class="working-process d-none">
-            <div class="working-process-shpae-one" style="background-image: url(assets/images/shapes/working-process-shape-1.png);"></div>
-            <div class="container">
-                <div class="working-process__title-box">
-                    <h2>Working Process</h2>
-                    <p>Our dedicated team specialises in the manufacture Lorem Ipsum available, <br> but the majority
-                        have suffered dimply entum estibulum</p>
-                </div>
-                <div class="working-process__inner">
-                    <div class="working-process__dot-1">
-                        <img src="assets/images/shapes/working-process-dot-1.png" alt="">
-                    </div>
-                    <div class="working-process__dot-2">
-                        <img src="assets/images/shapes/working-process-dot-2.png" alt="">
-                    </div>
-                    <div class="row">
-                        <!--Working Process Single Start-->
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                            <div class="working-process__single">
-                                <div class="working-process__icon">
-                                    <span class="icon-circular-saw"></span>
-                                </div>
-                                <h3 class="working-process__title"><a href="project-01.html">Consult case</a></h3>
-                                <p class="working-process__text">Lorem ipsum dolor sitame aenean are is mode </p>
-                                <div class="working-process__count"></div>
-                            </div>
-                        </div>
-                        <!--Working Process Single End-->
-                        <!--Working Process Single Start-->
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                            <div class="working-process__single">
-                                <div class="working-process__icon">
-                                    <span class="icon-wrench"></span>
-                                </div>
-                                <h3 class="working-process__title"><a href="project-02.html">Make Plan</a></h3>
-                                <p class="working-process__text">Lorem ipsum dolor sitame aenean are is mode </p>
-                                <div class="working-process__count"></div>
-                            </div>
-                        </div>
-                        <!--Working Process Single End-->
-                        <!--Working Process Single Start-->
-                        <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                            <div class="working-process__single working-process__single--last">
-                                <div class="working-process__icon">
-                                    <span class="icon-success1"></span>
-                                </div>
-                                <h3 class="working-process__title"><a href="project-01.html">Success Project</a></h3>
-                                <p class="working-process__text">Lorem ipsum dolor sitame aenean are is mode </p>
-                                <div class="working-process__count"></div>
-                            </div>
-                        </div>
-                        <!--Working Process Single End-->
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Working Process End-->
-
-        <!--Problem Solved Start-->
-        <section class="problem-solved d-none">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6">
-                        <div class="problem-solved__left wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
-                            <div class="problem-solved__img-box">
-                                <div class="problem-solved__img">
-                                    <img src="assets/images/resources/problem-solved-img-1.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="problem-solved__content">
-                                <h3 class="problem-solved__title">3k Problems Solved</h3>
-                                <p class="problem-solved__text">Every business is different, Lorem ipsum is simply free
-                                    text used.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6">
-                        <div class="problem-solved__right wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
-                            <div class="problem-solved__right-content">
-                                <h3 class="problem-solved__right-title">Staircase Renovation</h3>
-                                <p class="problem-solved__right-text">Breathe a new life into your old staircase with
-                                    our bespoke joinery services dolor sit</p>
-                            </div>
-                            <div class="problem-solved__btn-box">
-                                <a href="project-01.html" class="thm-btn problem-solved__btn">View Services</a>
-                            </div>
-                            <div class="problem-solved__shape-1 float-bob-x"></div>
-                            <div class="problem-solved__shape-2 float-bob-y"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Problem Solved End-->
-
-        <!--Project One Start-->
-        <section class="project-one">
-            <div class="project-one__title-box">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-xl-7 col-lg-6">
-                            <div class="project-one__title-box-left">
-                                <div class="section-title text-left">
-                                    <span class="section-title__tagline">our Projects</span>
-                                    <h2 class="section-title__title">Our Latest Workplace Success Story</h2>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-xl-5 col-lg-6">
-                            <div class="project-one__text-box">
-                                <p class="project-one__text">Discover our impressive portfolio of completed projects, showcasing our expertise in crafting exquisite glass doors and utilizing versatile plywood solutions. From residential renovations to commercial installations, we take pride in delivering stunning results that exceed expectations.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="project-one__top">
-                <div class="owl-carousel owl-theme thm-owl__carousel project-one__carousel" data-owl-options='{
-                    "loop": true,
-                    "autoplay": false,
-                    "margin": 0,
-                    "nav": false,
-                    "dots": true,
-                    "smartSpeed": 500,
-                    "autoplayTimeout": 10000,
-                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
-                    "responsive": {
-                        "0": {
-                            "items": 1
-                        },
-                        "768": {
-                            "items": 2
-                        },
-                        "992": {
-                            "items": 2
-                        },
-                        "1200": {
-                            "items": 4
-                        }
-                    }
-                }'>
-                    <!--Project One Single Start-->
-                    <div class="item">
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/project/project-1-1.jpg" alt="">
-                                <div class="project-one__content">
-                                    <div class="project-one__content-title-box">
-                                        <span>Furniture design</span>
-                                        <h3><a href="kitchen-modeling.html">Kitchen Modeling</a></h3>
-                                    </div>
-                                    <p class="project-one__content-text">Lorem ipsum dolor sit amet, consectet notted
-                                        adipisicing dolore magna aliqu lonm dolore magna aliqua lonm </p>
-                                    <div class="project-one__btn-box">
-                                        <a href="kitchen-modeling.html" class="thm-btn project-one__btn">View
-                                            Project</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="item">
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/project/project-1-2.jpg" alt="">
-                                <div class="project-one__content">
-                                    <div class="project-one__content-title-box">
-                                        <span>Furniture design</span>
-                                        <h3><a href="door-wood-work.html">Door Wood Work</a></h3>
-                                    </div>
-                                    <p class="project-one__content-text">Lorem ipsum dolor sit amet, consectet notted
-                                        adipisicing dolore magna aliqu lonm dolore magna aliqua lonm </p>
-                                    <div class="project-one__btn-box">
-                                        <a href="door-wood-work.html" class="thm-btn project-one__btn">View Project</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="item">
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/project/project-1-3.jpg" alt="">
-                                <div class="project-one__content">
-                                    <div class="project-one__content-title-box">
-                                        <span>Furniture design</span>
-                                        <h3><a href="hardwood-flooring.html">Hardwood Flooring</a></h3>
-                                    </div>
-                                    <p class="project-one__content-text">Lorem ipsum dolor sit amet, consectet notted
-                                        adipisicing dolore magna aliqu lonm dolore magna aliqua lonm </p>
-                                    <div class="project-one__btn-box">
-                                        <a href="hardwood-flooring.html" class="thm-btn project-one__btn">View
-                                            Project</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="item">
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/project/project-1-4.jpg" alt="">
-                                <div class="project-one__content">
-                                    <div class="project-one__content-title-box">
-                                        <span>Furniture design</span>
-                                        <h3><a href="celling-roofing.html">Ceiling & Roofing</a></h3>
-                                    </div>
-                                    <p class="project-one__content-text">Lorem ipsum dolor sit amet, consectet notted
-                                        adipisicing dolore magna aliqu lonm dolore magna aliqua lonm </p>
-                                    <div class="project-one__btn-box">
-                                        <a href="celling-roofing.html" class="thm-btn project-one__btn">View Project</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="item">
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/project/project-1-1.jpg" alt="">
-                                <div class="project-one__content">
-                                    <div class="project-one__content-title-box">
-                                        <span>Furniture design</span>
-                                        <h3><a href="commercial-work.html">Commercial work</a></h3>
-                                    </div>
-                                    <p class="project-one__content-text">Lorem ipsum dolor sit amet, consectet notted
-                                        adipisicing dolore magna aliqu lonm dolore magna aliqua lonm </p>
-                                    <div class="project-one__btn-box">
-                                        <a href="commercial-work.html" class="thm-btn project-one__btn">View Project</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="item">
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/project/project-1-2.jpg" alt="">
-                                <div class="project-one__content">
-                                    <div class="project-one__content-title-box">
-                                        <span>Furniture design</span>
-                                        <h3><a href="furniture-designing.html">Furniture Designing</a></h3>
-                                    </div>
-                                    <p class="project-one__content-text">Lorem ipsum dolor sit amet, consectet notted
-                                        adipisicing dolore magna aliqu lonm dolore magna aliqua lonm </p>
-                                    <div class="project-one__btn-box">
-                                        <a href="furniture-designing.html" class="thm-btn project-one__btn">View
-                                            Project</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="item">
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/project/project-1-3.jpg" alt="">
-                                <div class="project-one__content">
-                                    <div class="project-one__content-title-box">
-                                        <span>Furniture design</span>
-                                        <h3><a href="kitchen-modeling.html">Kitchen Modeling</a></h3>
-                                    </div>
-                                    <p class="project-one__content-text">Lorem ipsum dolor sit amet, consectet notted
-                                        adipisicing dolore magna aliqu lonm dolore magna aliqua lonm </p>
-                                    <div class="project-one__btn-box">
-                                        <a href="kitchen-modeling.html" class="thm-btn project-one__btn">View
-                                            Project</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="item">
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/project/project-1-4.jpg" alt="">
-                                <div class="project-one__content">
-                                    <div class="project-one__content-title-box">
-                                        <span>Furniture design</span>
-                                        <h3><a href="door-wood-work.html">Door Wood Work</a></h3>
-                                    </div>
-                                    <p class="project-one__content-text">Lorem ipsum dolor sit amet, consectet notted
-                                        adipisicing dolore magna aliqu lonm dolore magna aliqua lonm </p>
-                                    <div class="project-one__btn-box">
-                                        <a href="door-wood-work.html" class="thm-btn project-one__btn">View Project</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="item">
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/project/project-1-1.jpg" alt="">
-                                <div class="project-one__content">
-                                    <div class="project-one__content-title-box">
-                                        <span>Furniture design</span>
-                                        <h3><a href="hardwood-flooring.html">Hardwood Flooring</a></h3>
-                                    </div>
-                                    <p class="project-one__content-text">Lorem ipsum dolor sit amet, consectet notted
-                                        adipisicing dolore magna aliqu lonm dolore magna aliqua lonm </p>
-                                    <div class="project-one__btn-box">
-                                        <a href="hardwood-flooring.html" class="thm-btn project-one__btn">View
-                                            Project</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="item">
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/project/project-1-2.jpg" alt="">
-                                <div class="project-one__content">
-                                    <div class="project-one__content-title-box">
-                                        <span>Furniture design</span>
-                                        <h3><a href="celling-roofing.html">Ceiling & Roofing</a></h3>
-                                    </div>
-                                    <p class="project-one__content-text">Lorem ipsum dolor sit amet, consectet notted
-                                        adipisicing dolore magna aliqu lonm dolore magna aliqua lonm </p>
-                                    <div class="project-one__btn-box">
-                                        <a href="celling-roofing.html" class="thm-btn project-one__btn">View Project</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="item">
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/project/project-1-3.jpg" alt="">
-                                <div class="project-one__content">
-                                    <div class="project-one__content-title-box">
-                                        <span>Furniture design</span>
-                                        <h3><a href="commercial-work.html">Commercial work</a></h3>
-                                    </div>
-                                    <p class="project-one__content-text">Lorem ipsum dolor sit amet, consectet notted
-                                        adipisicing dolore magna aliqu lonm dolore magna aliqua lonm </p>
-                                    <div class="project-one__btn-box">
-                                        <a href="commercial-work.html" class="thm-btn project-one__btn">View Project</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                    <!--Project One Single Start-->
-                    <div class="item">
-                        <div class="project-one__single">
-                            <div class="project-one__img">
-                                <img src="assets/images/project/project-1-4.jpg" alt="">
-                                <div class="project-one__content">
-                                    <div class="project-one__content-title-box">
-                                        <span>Furniture design</span>
-                                        <h3><a href="furniture-designing.html">Furniture Designing</a></h3>
-                                    </div>
-                                    <p class="project-one__content-text">Lorem ipsum dolor sit amet, consectet notted
-                                        adipisicing dolore magna aliqu lonm dolore magna aliqua lonm </p>
-                                    <div class="project-one__btn-box">
-                                        <a href="furniture-designing.html" class="thm-btn project-one__btn">View
-                                            Project</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project One Single End-->
-                </div>
-            </div>
-            <div class="project-one__bottom">
-                <div class="project-one__bottom-bg jarallax" data-jarallax="" data-speed="0.2" data-imgposition="50% 0%" style="background-image: url(assets/images/backgrounds/project-one-bottom-bg.jpg);"></div>
-                <div class="container">
-                    <div class="project-one__bottom-inner">
-                        <div class="project-one__bottom-left">
-                            <h2 class="project-one__bottom-title"> We’re the team you need
-                                to get things done.</h2>
-                        </div>
-                        <div class="project-one__bottom-btn-box">
-                            <a href="projects.php" class="thm-btn project-one__bottom-btn">View All Project</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--Project One End-->
-
-        <!--Team One Start-->
-        <section class="team-one d-none">
-            <div class="container">
-                <div class="section-title text-center">
-                    <span class="section-title__tagline">Team Member</span>
-                    <h2 class="section-title__title">Meet the Professionals</h2>
-                </div>
-                <div class="row">
-                    <!--Team One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="100ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-1-1.jpg" alt="">
-                                <div class="team-one__content">
-                                    <p class="team-one__sub-title">Furniture Designing</p>
-                                    <h3 class="team-one__title"><a href="team.html">Adam Smite</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="200ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-1-2.jpg" alt="">
-                                <div class="team-one__content">
-                                    <p class="team-one__sub-title">Co founder</p>
-                                    <h3 class="team-one__title"><a href="team.html">John David</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                    <!--Team One Single Start-->
-                    <div class="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay="300ms">
-                        <div class="team-one__single">
-                            <div class="team-one__img">
-                                <img src="assets/images/team/team-1-3.jpg" alt="">
-                                <div class="team-one__content">
-                                    <p class="team-one__sub-title">Designing</p>
-                                    <h3 class="team-one__title"><a href="team.html">Wiliam Tomas</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Team One Single End-->
-                </div>
-            </div>
-        </section>
-        <!--Team One End-->
-
         <!--Counter One Start-->
         <section class="counter-one">
             <div class="container">
                 <ul class="list-unstyled counter-one__list">
                     <li class="wow fadeInUp" data-wow-delay="100ms">
                         <div class="counter-one__count-box">
-                            <h3 class="odometer" data-count="30">00</h3>
+                            <h3 class="odometer" data-count="10">00</h3>
                             <span class="counter-one__plus">+</span>
                         </div>
                         <p class="counter-one__text">Years of experience</p>
@@ -870,7 +411,8 @@
                     </li>
                     <li class="wow fadeInUp" data-wow-delay="200ms">
                         <div class="counter-one__count-box">
-                            <h3 class="odometer" data-count="2145">00</h3>
+                            <h3 class="odometer" data-count="5700">00</h3>
+                            <span class="counter-one__plus">+</span>
                         </div>
                         <p class="counter-one__text">Satisfied clients</p>
                         <div class="counter-one__icon">
@@ -879,18 +421,20 @@
                     </li>
                     <li class="wow fadeInUp" data-wow-delay="300ms">
                         <div class="counter-one__count-box">
-                            <h3 class="odometer" data-count="245">00</h3>
+                            <h3 class="odometer" data-count="1000">00</h3>
+                            <span class="counter-one__plus">+</span>
                         </div>
-                        <p class="counter-one__text">Project Completed</p>
+                        <p class="counter-one__text">Product</p>
                         <div class="counter-one__icon">
                             <span class="icon-chainsaw"></span>
                         </div>
                     </li>
                     <li class="wow fadeInUp" data-wow-delay="400ms">
                         <div class="counter-one__count-box">
-                            <h3 class="odometer" data-count="25">00</h3>
+                            <h3 class="odometer" data-count="59">00</h3>
+                            <span class="counter-one__plus">+</span>
                         </div>
-                        <p class="counter-one__text">Awards Recieved</p>
+                        <p class="counter-one__text">Brands</p>
                         <div class="counter-one__icon">
                             <span class="icon-award-certificate-education"></span>
                         </div>

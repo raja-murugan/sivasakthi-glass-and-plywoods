@@ -81,7 +81,7 @@
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.html">Home</a></li>
                         <li><span>/</span></li>
-                        <li>About usr</li>
+                        <li>About us</li>
                     </ul>
                 </div>
             </div>
@@ -156,6 +156,55 @@
             </div>
         </section>
         <!--Why Choose Three End-->
+
+        <!--Counter One Start-->
+        <section class="counter-one">
+            <div class="container">
+                <ul class="list-unstyled counter-one__list">
+                    <li class="wow fadeInUp" data-wow-delay="100ms">
+                        <div class="counter-one__count-box">
+                            <h3 class="odometer" data-count="10">00</h3>
+                            <span class="counter-one__plus">+</span>
+                        </div>
+                        <p class="counter-one__text">Years of experience</p>
+                        <div class="counter-one__icon">
+                            <span class="icon-hand-rating-smile"></span>
+                        </div>
+                    </li>
+                    <li class="wow fadeInUp" data-wow-delay="200ms">
+                        <div class="counter-one__count-box">
+                            <h3 class="odometer" data-count="5700">00</h3>
+                            <span class="counter-one__plus">+</span>
+                        </div>
+                        <p class="counter-one__text">Satisfied clients</p>
+                        <div class="counter-one__icon">
+                            <span class="icon-mail-message"></span>
+                        </div>
+                    </li>
+                    <li class="wow fadeInUp" data-wow-delay="300ms">
+                        <div class="counter-one__count-box">
+                            <h3 class="odometer" data-count="1000">00</h3>
+                            <span class="counter-one__plus">+</span>
+                        </div>
+                        <p class="counter-one__text">Product</p>
+                        <div class="counter-one__icon">
+                            <span class="icon-chainsaw"></span>
+                        </div>
+                    </li>
+                    <li class="wow fadeInUp" data-wow-delay="400ms">
+                        <div class="counter-one__count-box">
+                            <h3 class="odometer" data-count="59">00</h3>
+                            <span class="counter-one__plus">+</span>
+                        </div>
+                        <p class="counter-one__text">Brands</p>
+                        <div class="counter-one__icon">
+                            <span class="icon-award-certificate-education"></span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <!--Counter One End-->
 
 
         <?php include('footer.php') ?>

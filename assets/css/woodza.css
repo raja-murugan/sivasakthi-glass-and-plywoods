@@ -24,7 +24,7 @@
   --woodza-gray-rgb: 35, 35, 35;
   --woodza-white: #ffffff;
   --woodza-white-rgb: 255, 255, 255;
-  --woodza-base: #db5e41;
+  --woodza-base: #0394de;
   --woodza-base-rgb: 219, 94, 65;
   --woodza-black: #080d1c;
   --woodza-black-rgb: 08, 13, 28;
@@ -449,7 +449,7 @@ ul {
   animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-image: url(../images/loader.png);
+  background-image: url(../images/logo.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 60px auto;

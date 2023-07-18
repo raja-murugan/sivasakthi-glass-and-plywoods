@@ -9,7 +9,7 @@
                         <div class="col-xl-3 col-lg-4 col-md-4 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__logo">
-                                    <a href="index.html"><img src="assets/images/resources/footer-logo.png" alt=""></a>
+                                    <a href="index.html"><img src="assets/images/logo.png" alt="" style="height: 70px; width: 130px;"></a>
                                 </div>
                                 <div class="site-footer__social">
                                     <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -89,7 +89,7 @@
                         <div class="col-xl-12">
                             <div class="site-footer__bottom-inner">
                                 <p class="site-footer__bottom-text">© 2023 <a href="#">Sivasaktih Plywoods</a> All Rights
-                                    Reserved</p>
+                                    Reserved from <a htef="https://zworktechnology.com/">Zwork Technology</a></p>
                             </div>
                         </div>
                     </div>
