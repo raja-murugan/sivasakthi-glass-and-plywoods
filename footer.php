@@ -87,7 +87,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="site-footer__bottom-inner">
-                                <p class="site-footer__bottom-text">© 2023 <a href="#">Sivasaktih Plywoods</a> All Rights
+                                <p class="site-footer__bottom-text">© 2023 <a href="#">Sivasakthi Glass & Playwoods</a> All Rights
                                     Reserved from <a htef="https://zworktechnology.com/">Zwork Technology</a></p>
                             </div>
                         </div>

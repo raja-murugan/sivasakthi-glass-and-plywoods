@@ -181,12 +181,6 @@
                             </div>
                             <h3 class="famous-company__title"><a href="carpentry.html">Creative works</a></h3>
                             <p class="famous-company__text">Expressive Woodworking at Its Finest</p>
-                            <div class="famous-company__read-more">
-                                <a href="carpentry.html">
-                                    <i class="fas fa-arrow-right"></i>
-                                    <span>Read More</span>
-                                </a>
-                            </div>
                             <div class="famous-company__shape-1"></div>
                         </div>
                     </div>
@@ -199,12 +193,6 @@
                             </div>
                             <h3 class="famous-company__title"><a href="about.html">Certified Materials</a></h3>
                             <p class="famous-company__text">Trusted Source for Certified Materials </p>
-                            <div class="famous-company__read-more">
-                                <a href="about.html">
-                                    <i class="fas fa-arrow-right"></i>
-                                    <span>Read More</span>
-                                </a>
-                            </div>
                             <div class="famous-company__shape-1"></div>
                         </div>
                     </div>
@@ -217,12 +205,6 @@
                             </div>
                             <h3 class="famous-company__title"><a href="about.html"> Very Cheap Rates</a></h3>
                             <p class="famous-company__text">Budget-Friendly Options without Compromise </p>
-                            <div class="famous-company__read-more">
-                                <a href="about.html">
-                                    <i class="fas fa-arrow-right"></i>
-                                    <span>Read More</span>
-                                </a>
-                            </div>
                             <div class="famous-company__shape-1"></div>
                         </div>
                     </div>
@@ -235,11 +217,6 @@
                             </div>
                             <h3 class="famous-company__title"><a href="kitchen-modeling.html">Quality Materials</a></h3>
                             <p class="famous-company__text">Finest Selection of High-Quality Materials </p>
-                            <div class="famous-company__read-more">
-                                <a href="#">
-                                    <i class="fas fa-arrow-right"></i>
-                                    <span>Read More</span>
-                                </a>
                             </div>
                             <div class="famous-company__shape-1"></div>
                         </div>
@@ -362,7 +339,7 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                         <div class="services-one__single">
                             <div class="services-one__img">
-                                <img src="assets/image/product/3.webp" alt="">
+                                <img src="assets/image/product/4.jpg" alt="">
                             </div>
                             <div class="services-one__content">
                                 <div class="services-one__icon">

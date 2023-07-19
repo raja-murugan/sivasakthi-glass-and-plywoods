@@ -178,4 +178,14 @@
             </div>
         </section>
         <!--Contact Page End-->
+
+        <!--Google Map Start-->
+        <section class="google-map">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.0108998027927!2d78.72012567470023!3d10.810476658565438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baaf54021a805ad%3A0x5bd66b88eb1afa8b!2sSivasakthi%20Glass%20%26%20Plywoods%20Trichy!5e0!3m2!1sen!2sin!4v1689781494202!5m2!1sen!2sin"
+                class="google-map__one" allowfullscreen></iframe>
+
+        </section>
+        <!--Google Map End-->
+
         <?php include('footer.php') ?>

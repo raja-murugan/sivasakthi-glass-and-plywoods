@@ -227,7 +227,7 @@
                                     </div>
                                     <div class="statment__count-content-box">
                                         <div class="statment__count-content">
-                                            <h3 class="odometer" data-count="30">10</h3>
+                                            <h3 class="odometer" data-count="10">10</h3>
                                             <span class="statment__count-plus">+</span>
                                         </div>
                                         <p class="statment__count-text">Years of experience</p>
