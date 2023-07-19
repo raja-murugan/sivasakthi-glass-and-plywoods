@@ -161,7 +161,7 @@
                     <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/logos/ENO.jpeg" alt="">
+                                <img src="assets/images/logos/enox.png" alt="">
                                 <div class="team-one__content">
                                     <p class="team-one__sub-title"></p>
                                     <h3 class="team-one__title"><a href="team.html"></a></h3>
