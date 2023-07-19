@@ -4,7 +4,7 @@
             <div class="main-header__top-inner clearfix">
                 <div class="main-header__top-left">
                     <div class="main-header__top-logo">
-                        <a href="index.html"><img src="assets/images/logo.png" alt="" style="height: 70px; width: 130px;"></a>
+                        <a href="index.php"><img src="assets/images/logo.png" alt="" style="height: 70px; width: 130px;"></a>
                     </div>
                 </div>
                 <div class="main-header__top-right">

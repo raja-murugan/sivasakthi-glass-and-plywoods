@@ -96,7 +96,7 @@
                                         <p class="main-slider__sub-title">Sivasakthi Glass & Playwoods</p>
                                         <h2 class="main-slider__title">Elegant Woodwork,<br /> Stylish Glass <br>Works</h2>
                                         <div class="main-slider__btn-box">
-                                            <a href="services.html" class="thm-btn main-slider__btn">Our Services</a>
+                                            <a href="servicesjavascript::void(o);" class="thm-btn main-slider__btn">Our Services</a>
                                         </div>
                                     </div>
                                 </div>
@@ -118,7 +118,7 @@
                                         <p class="main-slider__sub-title">Sivasakthi Glass & Playwoods</p>
                                         <h2 class="main-slider__title">Expert Plywood,<br/>Stunning Glass<br/> Doors</h2>
                                         <div class="main-slider__btn-box">
-                                            <a href="services.html" class="thm-btn main-slider__btn">Our Services</a>
+                                            <a href="servicesjavascript::void(o);" class="thm-btn main-slider__btn">Our Services</a>
                                         </div>
                                     </div>
                                 </div>
@@ -141,7 +141,7 @@
                                         <h2 class="main-slider__title">We Provide the <br> quality Carpentry <br>
                                             Services</h2>
                                         <div class="main-slider__btn-box">
-                                            <a href="services.html" class="thm-btn main-slider__btn">Our Services</a>
+                                            <a href="servicesjavascript::void(o);" class="thm-btn main-slider__btn">Our Services</a>
                                         </div>
                                     </div>
                                 </div>
@@ -179,7 +179,7 @@
                             <div class="famous-company__icon">
                                 <img src="assets/images/icon/famous-company-icon-1.png" alt="">
                             </div>
-                            <h3 class="famous-company__title"><a href="carpentry.html">Creative works</a></h3>
+                            <h3 class="famous-company__title"><a href="carpentryjavascript::void(o);">Creative works</a></h3>
                             <p class="famous-company__text">Expressive Woodworking at Its Finest</p>
                             <div class="famous-company__shape-1"></div>
                         </div>
@@ -191,7 +191,7 @@
                             <div class="famous-company__icon">
                                 <img src="assets/images/icon/famous-company-icon-2.png" alt="">
                             </div>
-                            <h3 class="famous-company__title"><a href="about.html">Certified Materials</a></h3>
+                            <h3 class="famous-company__title"><a href="about.php">Certified Materials</a></h3>
                             <p class="famous-company__text">Trusted Source for Certified Materials </p>
                             <div class="famous-company__shape-1"></div>
                         </div>
@@ -203,7 +203,7 @@
                             <div class="famous-company__icon">
                                 <img src="assets/images/icon/famous-company-icon-3.png" alt="">
                             </div>
-                            <h3 class="famous-company__title"><a href="about.html"> Very Cheap Rates</a></h3>
+                            <h3 class="famous-company__title"><a href="about.php"> Very Cheap Rates</a></h3>
                             <p class="famous-company__text">Budget-Friendly Options without Compromise </p>
                             <div class="famous-company__shape-1"></div>
                         </div>
@@ -215,7 +215,7 @@
                             <div class="famous-company__icon">
                                 <img src="assets/images/icon/famous-company-icon-4.png" alt="">
                             </div>
-                            <h3 class="famous-company__title"><a href="kitchen-modeling.html">Quality Materials</a></h3>
+                            <h3 class="famous-company__title"><a href="kitchen-modelingjavascript::void(o);">Quality Materials</a></h3>
                             <p class="famous-company__text">Finest Selection of High-Quality Materials </p>
                             </div>
                             <div class="famous-company__shape-1"></div>
@@ -313,7 +313,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-table"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="wood-fruniture.html">Plywoods</a></h3>
+                                <h3 class="services-one__title"><a href="wood-fruniturejavascript::void(o);">Plywoods</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -329,7 +329,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-chainsaw"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="services.html">Glass</a></h3>
+                                <h3 class="services-one__title"><a href="servicesjavascript::void(o);">Glass</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -345,7 +345,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-wood-pile"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="services.html">Door</a></h3>
+                                <h3 class="services-one__title"><a href="servicesjavascript::void(o);">Door</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -361,7 +361,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-table"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="wood-fruniture.html">Locker</a></h3>
+                                <h3 class="services-one__title"><a href="wood-fruniturejavascript::void(o);">Locker</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -817,17 +817,17 @@
                                     <ul class="list-unstyled blog-one__meta">
                                         <li>
                                             <i class="icon-user"></i>
-                                            <a href="blog-details.html">By Admin</a>
+                                            <a href="blog-detailsjavascript::void(o);">By Admin</a>
                                         </li>
                                         <li>
                                             <i class="icon-clock"></i>
-                                            <a href="blog-details.html">25 April,2022</a>
+                                            <a href="blog-detailsjavascript::void(o);">25 April,2022</a>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-one__title"><a href="blog-details.html">How to Calculate How Much
+                                    <h3 class="blog-one__title"><a href="blog-detailsjavascript::void(o);">How to Calculate How Much
                                             Epoxy For Your Table</a></h3>
                                     <div class="blog-one__arrow">
-                                        <a href="blog-details.html">Learn More <span class="icon-right-arrow-1"></span></a>
+                                        <a href="blog-detailsjavascript::void(o);">Learn More <span class="icon-right-arrow-1"></span></a>
                                     </div>
                                     <div class="blog-one__tag">
                                         <p>Sideboard</p>
@@ -846,17 +846,17 @@
                                     <ul class="list-unstyled blog-one__meta">
                                         <li>
                                             <i class="icon-user"></i>
-                                            <a href="blog-details.html">By Admin</a>
+                                            <a href="blog-detailsjavascript::void(o);">By Admin</a>
                                         </li>
                                         <li>
                                             <i class="icon-clock"></i>
-                                            <a href="blog-details.html">25 April,2022</a>
+                                            <a href="blog-detailsjavascript::void(o);">25 April,2022</a>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-one__title"><a href="blog-details.html">Build Your Own Coffee Table
+                                    <h3 class="blog-one__title"><a href="blog-detailsjavascript::void(o);">Build Your Own Coffee Table
                                             Series Complete</a></h3>
                                     <div class="blog-one__arrow">
-                                        <a href="blog-details.html">Learn More <span class="icon-right-arrow-1"></span></a>
+                                        <a href="blog-detailsjavascript::void(o);">Learn More <span class="icon-right-arrow-1"></span></a>
                                     </div>
                                     <div class="blog-one__tag">
                                         <p>Sideboard</p>
@@ -875,17 +875,17 @@
                                     <ul class="list-unstyled blog-one__meta">
                                         <li>
                                             <i class="icon-user"></i>
-                                            <a href="blog-details.html">By Admin</a>
+                                            <a href="blog-detailsjavascript::void(o);">By Admin</a>
                                         </li>
                                         <li>
                                             <i class="icon-clock"></i>
-                                            <a href="blog-details.html">25 April,2022</a>
+                                            <a href="blog-detailsjavascript::void(o);">25 April,2022</a>
                                         </li>
                                     </ul>
-                                    <h3 class="blog-one__title"><a href="blog-details.html">Workshop Floor From Scaffold
+                                    <h3 class="blog-one__title"><a href="blog-detailsjavascript::void(o);">Workshop Floor From Scaffold
                                             Boards furniture making</a></h3>
                                     <div class="blog-one__arrow">
-                                        <a href="blog-details.html">Learn More <span class="icon-right-arrow-1"></span></a>
+                                        <a href="blog-detailsjavascript::void(o);">Learn More <span class="icon-right-arrow-1"></span></a>
                                     </div>
                                     <div class="blog-one__tag">
                                         <p>Sideboard</p>
@@ -912,7 +912,7 @@
                             </div>
                         </div>
                         <div class="about-history__right">
-                            <a href="about.html" class="thm-btn about-history__btn">About Company</a>
+                            <a href="about.php" class="thm-btn about-history__btn">About Company</a>
                         </div>
                     </div>
                 </div>

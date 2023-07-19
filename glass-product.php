@@ -80,7 +80,7 @@
                 <div class="page-header__inner">
                     <h2>Glass</h2>
                     <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
                         <li>Product</li>
                     </ul>

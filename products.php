@@ -79,7 +79,7 @@
                 <div class="page-header__inner">
                     <h2>Our Products</h2>
                     <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><span>/</span></li>
                         <li>Our Product</li>
                     </ul>
@@ -119,7 +119,7 @@
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
                                     <h3 class="project-two__title"><a href="door-product.php">Door</a></h3>
-                                    <p class="project-two__sub-title">PVC, UPVC, Wood Door & Others...</p>
+                                    <p class="project-two__sub-title">PVC, Wood Door & Others...</p>
                                 </div>
                                 <div class="project-two__arrow">
                                     <a href="door-product.php"><i class="fas fa-arrow-right"></i></a>
@@ -154,11 +154,11 @@
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="hardwood-flooring.html">Plywood</a></h3>
+                                    <h3 class="project-two__title"><a href="hardwood-flooringjavascript::void(o);">Plywood</a></h3>
                                     <p class="project-two__sub-title">Plywood & Others...</p>
                                 </div>
                                 <div class="project-two__arrow">
-                                    <a href="hardwood-flooring.html"><i class="fas fa-arrow-right"></i></a>
+                                    <a href="hardwood-flooringjavascript::void(o);"><i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -172,11 +172,11 @@
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="celling-roofing.html">Hardware Material</a></h3>
+                                    <h3 class="project-two__title"><a href="celling-roofingjavascript::void(o);">Hardware Material</a></h3>
                                     <p class="project-two__sub-title">Door Handles, Glulu & Others...</p>
                                 </div>
                                 <div class="project-two__arrow">
-                                    <a href="celling-roofing.html"><i class="fas fa-arrow-right"></i></a>
+                                    <a href="celling-roofingjavascript::void(o);"><i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
