@@ -93,7 +93,7 @@
             <div class="container">
                 <div class="row">
                     <!--Team One Single Start-->
-                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
                                 <img src="assets/images/team/team-1-1.jpg" alt="">
@@ -106,7 +106,7 @@
                     </div>
                     <!--Team One Single End-->
                     <!--Team One Single Start-->
-                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
                                 <img src="assets/images/team/team-1-2.jpg" alt="">
@@ -119,7 +119,7 @@
                     </div>
                     <!--Team One Single End-->
                     <!--Team One Single Start-->
-                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
                                 <img src="assets/images/team/team-1-3.jpg" alt="">
@@ -132,7 +132,7 @@
                     </div>
                     <!--Team One Single End-->
                     <!--Team One Single Start-->
-                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
                                 <img src="assets/images/team/team-1-4.jpg" alt="">
@@ -145,7 +145,7 @@
                     </div>
                     <!--Team One Single End-->
                     <!--Team One Single Start-->
-                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="500ms">
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="500ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
                                 <img src="assets/images/team/team-1-5.jpg" alt="">
@@ -158,7 +158,7 @@
                     </div>
                     <!--Team One Single End-->
                     <!--Team One Single Start-->
-                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
                                 <img src="assets/images/team/team-1-6.jpg" alt="">
