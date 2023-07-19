@@ -15,7 +15,7 @@
                             </div>
                             <div class="content">
                                 <p>Quick Location</p>
-                                <h5>Kamaraj Nagar, Opp. Reliance Market, <br/>Ariyamangalam, Trichy - 620010</h5>
+                                <h5>Ariyamangalam, Tiruchirappalli</h5>
                             </div>
                         </li>
                         <li>
