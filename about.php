@@ -102,13 +102,13 @@
                         <div class="why-choose-one__left wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                             <div class="why-choose-one__img-box">
                                 <div class="why-choose-one__img">
-                                    <img src="assets/images/resources/why-choose-one-img-1.jpg" alt="">
+                                    <img src="assets/image/about/a1.webp" alt="">
                                     <div class="why-choose-one__dot float-bob-y">
                                         <img src="assets/images/shapes/why-choose-one-dot.png" alt="">
                                     </div>
                                 </div>
                                 <div class="why-choose-one__img-two">
-                                    <img src="assets/images/resources/why-choose-one-img-2.jpg" alt="">
+                                    <img src="assets/image/about/a2.jpg" alt="">
                                 </div>
                                 <div class="why-choose-one__border"></div>
                                 <div class="why-choose-one__customer-service">
