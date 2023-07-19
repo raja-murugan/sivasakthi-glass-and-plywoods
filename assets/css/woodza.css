@@ -4180,7 +4180,7 @@ ul {
 .team-one {
   position: relative;
   display: block;
-  padding: 120px 0 0px;
+  padding: 10px 0 0px;
 }
 
 .team-one__single {
@@ -4193,6 +4193,8 @@ ul {
   position: relative;
   display: block;
   overflow: hidden;
+  height: 150px;
+  object-fit:cover;
 }
 
 .team-one__img:before {
@@ -4224,13 +4226,13 @@ ul {
   transform: scale(1.05);
 }
 
-.team-one__content {
+/*.team-one__content {
   position: absolute;
   bottom: 0;
   left: 0;
   right: 55px;
   background: rgb(219, 94, 65);
-  background: linear-gradient(90deg, rgba(219, 94, 65, 0.9640231092436975) 35%, rgba(219, 94, 65, 0.022846638655462215) 77%);
+  background: linear-gradient(90deg, rgba(168, 226, 243, 0.964) 35%, rgba(219, 94, 65, 0.022846638655462215) 77%);
   padding-left: 20px;
   padding-top: 26px;
   padding-bottom: 24px;
