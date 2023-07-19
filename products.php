@@ -77,46 +77,23 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Products</h2>
+                    <h2>Our Products</h2>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.html">Home</a></li>
                         <li><span>/</span></li>
-                        <li>Our Products</li>
+                        <li>Our Product</li>
                     </ul>
                 </div>
             </div>
         </section>
-        <!--Page Header End-->
+        <!--Page Header End--
 
         <!--Project Page One Start-->
-        <section class="project-page-carousel">
+        <section class="project-page-one">
             <div class="container">
-                <div class="owl-carousel owl-theme thm-owl__carousel carousel-dot-styled carousel-box-shadow project-carousel" data-owl-options='{
-                    "loop": true,
-                    "autoplay": true,
-                    "margin": 30,
-                    "nav": false,
-                    "dots": true,
-                    "smartSpeed": 500,
-                    "autoplayTimeout": 10000,
-                    "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
-                    "responsive": {
-                        "0": {
-                            "items": 1
-                        },
-                        "768": {
-                            "items": 2
-                        },
-                        "992": {
-                            "items": 3
-                        },
-                        "1200": {
-                            "items": 3
-                        }
-                    }
-                }'>
+                <div class="row">
                     <!--Project Page One single Start-->
-                    <div class="item">
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
                                 <img src="assets/images/project/project-page-one-1-1.jpg" alt="">
@@ -134,104 +111,14 @@
                     </div>
                     <!--Project Page One single End-->
                     <!--Project Page One single Start-->
-                    <div class="item">
-                        <div class="project-two__single">
-                            <div class="project-two__img">
-                                <img src="assets/images/project/project-page-one-1-2.jpg" alt="">
-                            </div>
-                            <div class="project-two__content">
-                                <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="door-wood-work.html">Door</a></h3>
-                                    <p class="project-two__sub-title">Furniture design</p>
-                                </div>
-                                <div class="project-two__arrow">
-                                    <a href="door-wood-work.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project Page One single End-->
-                    <!--Project Page One single Start-->
-                    <div class="item">
-                        <div class="project-two__single">
-                            <div class="project-two__img">
-                                <img src="assets/images/project/project-page-one-1-3.jpg" alt="">
-                            </div>
-                            <div class="project-two__content">
-                                <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="furniture-designing.html">Plywood</a></h3>
-                                    <p class="project-two__sub-title">Furniture design</p>
-                                </div>
-                                <div class="project-two__arrow">
-                                    <a href="furniture-designing.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project Page One single End-->
-                    <!--Project Page One single Start-->
-                    <div class="item">
-                        <div class="project-two__single">
-                            <div class="project-two__img">
-                                <img src="assets/images/project/project-page-one-1-4.jpg" alt="">
-                            </div>
-                            <div class="project-two__content">
-                                <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="celling-roofing.html">Platform Sheet</a></h3>
-                                    <p class="project-two__sub-title">Furniture design</p>
-                                </div>
-                                <div class="project-two__arrow">
-                                    <a href="celling-roofing.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project Page One single End-->
-                    <!--Project Page One single Start-->
-                    <div class="item">
-                        <div class="project-two__single">
-                            <div class="project-two__img">
-                                <img src="assets/images/project/project-page-one-1-5.jpg" alt="">
-                            </div>
-                            <div class="project-two__content">
-                                <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="commercial-work.html">Kitchen Equipments</a></h3>
-                                    <p class="project-two__sub-title">Furniture design</p>
-                                </div>
-                                <div class="project-two__arrow">
-                                    <a href="commercial-work.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project Page One single End-->
-                    <!--Project Page One single Start-->
-                    <div class="item">
-                        <div class="project-two__single">
-                            <div class="project-two__img">
-                                <img src="assets/images/project/project-page-one-1-6.jpg" alt="">
-                            </div>
-                            <div class="project-two__content">
-                                <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="furniture-designing.html">Hardware Material</a></h3>
-                                    <p class="project-two__sub-title">Furniture design</p>
-                                </div>
-                                <div class="project-two__arrow">
-                                    <a href="furniture-designing.html"><i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--Project Page One single End-->
-                    <!--Project Page One single Start-->
-                    <div class="item">
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
                                 <img src="assets/images/project/project-page-one-1-1.jpg" alt="">
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="kitchen-modeling.html">Sheets</a></h3>
+                                    <h3 class="project-two__title"><a href="kitchen-modeling.html">Door</a></h3>
                                     <p class="project-two__sub-title">Furniture design</p>
                                 </div>
                                 <div class="project-two__arrow">
@@ -242,18 +129,90 @@
                     </div>
                     <!--Project Page One single End-->
                     <!--Project Page One single Start-->
-                    <div class="item">
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="project-two__single">
                             <div class="project-two__img">
                                 <img src="assets/images/project/project-page-one-1-2.jpg" alt="">
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="door-wood-work.html">Safety Locker</a></h3>
+                                    <h3 class="project-two__title"><a href="door-wood-work.html">Kitchen Equipments</a></h3>
                                     <p class="project-two__sub-title">Furniture design</p>
                                 </div>
                                 <div class="project-two__arrow">
                                     <a href="door-wood-work.html"><i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Project Page One single End-->
+                    <!--Project Page One single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/project-page-one-1-3.jpg" alt="">
+                            </div>
+                            <div class="project-two__content">
+                                <div class="project-two__title-box">
+                                    <h3 class="project-two__title"><a href="hardwood-flooring.html">Plywood</a></h3>
+                                    <p class="project-two__sub-title">Furniture design</p>
+                                </div>
+                                <div class="project-two__arrow">
+                                    <a href="hardwood-flooring.html"><i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Project Page One single End-->
+                    <!--Project Page One single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/project-page-one-1-4.jpg" alt="">
+                            </div>
+                            <div class="project-two__content">
+                                <div class="project-two__title-box">
+                                    <h3 class="project-two__title"><a href="celling-roofing.html">Hardware Material</a></h3>
+                                    <p class="project-two__sub-title">Furniture design</p>
+                                </div>
+                                <div class="project-two__arrow">
+                                    <a href="celling-roofing.html"><i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Project Page One single End-->
+                    <!--Project Page One single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="500ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/project-page-one-1-5.jpg" alt="">
+                            </div>
+                            <div class="project-two__content">
+                                <div class="project-two__title-box">
+                                    <h3 class="project-two__title"><a href="commercial-work.html">Sheets</a></h3>
+                                    <p class="project-two__sub-title">Furniture design</p>
+                                </div>
+                                <div class="project-two__arrow">
+                                    <a href="commercial-work.html"><i class="fas fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Project Page One single End-->
+                    <!--Project Page One single Start-->
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="project-two__single">
+                            <div class="project-two__img">
+                                <img src="assets/images/project/project-page-one-1-6.jpg" alt="">
+                            </div>
+                            <div class="project-two__content">
+                                <div class="project-two__title-box">
+                                    <h3 class="project-two__title"><a href="furniture-designing.html">Safety Locker</a></h3>
+                                    <p class="project-two__sub-title">Furniture design</p>
+                                </div>
+                                <div class="project-two__arrow">
+                                    <a href="furniture-designing.html"><i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

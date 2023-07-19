@@ -157,54 +157,125 @@
         </section>
         <!--Why Choose Three End-->
 
-        <!--Counter One Start-->
-        <section class="counter-one">
+        <!--Problem Solved Three Start-->
+        <section class="problem-solved-three problem-solved-four">
             <div class="container">
-                <ul class="list-unstyled counter-one__list">
-                    <li class="wow fadeInUp" data-wow-delay="100ms">
-                        <div class="counter-one__count-box">
-                            <h3 class="odometer" data-count="10">00</h3>
-                            <span class="counter-one__plus">+</span>
+                <div class="row">
+                    <div class="col-xl-6">
+                        <div class="problem-solved-three__left wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
+                            <div class="problem-solved-three__img-box">
+                                <div class="problem-solved-three__img">
+                                    <img src="assets/images/resources/problem-solved-img-1.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="problem-solved-three__content">
+                                <h3 class="problem-solved-three__title">3k Problems Solved</h3>
+                                <p class="problem-solved-three__text">Every business is different, Lorem ipsum is simply free text used.</p>
+                            </div>
                         </div>
-                        <p class="counter-one__text">Years of experience</p>
-                        <div class="counter-one__icon">
-                            <span class="icon-hand-rating-smile"></span>
+                    </div>
+                    <div class="col-xl-6">
+                        <div class="problem-solved-three__right wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
+                            <div class="problem-solved-three__call">
+                                <h5 class="problem-solved-three__sub-title">Have An Emergency?</h5>
+                                <a href="tel:1144454789"> <span class="icon-phone"></span> +91 95666 20099</a>
+                                <p class="problem-solved-three__text-2">Lpsum dolor sit amet consectetur adipiscing elit wood expert</p>
+                            </div>
+                            <div class="problem-solved-three__trusted">
+                                <div class="problem-solved-three__trusted-img">
+                                    <img src="assets/images/resources/problem-solved-three-trusted-img.jpg" alt="">
+                                    <div class="problem-solved-three__trusted-content">
+                                        <p>Since</p>
+                                        <h3 class="odometer" data-count="2013">00</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="problem-solved-three__shape-1 float-bob-x"></div>
+                            <div class="problem-solved-three__shape-2 float-bob-y"></div>
                         </div>
-                    </li>
-                    <li class="wow fadeInUp" data-wow-delay="200ms">
-                        <div class="counter-one__count-box">
-                            <h3 class="odometer" data-count="5700">00</h3>
-                            <span class="counter-one__plus">+</span>
-                        </div>
-                        <p class="counter-one__text">Satisfied clients</p>
-                        <div class="counter-one__icon">
-                            <span class="icon-mail-message"></span>
-                        </div>
-                    </li>
-                    <li class="wow fadeInUp" data-wow-delay="300ms">
-                        <div class="counter-one__count-box">
-                            <h3 class="odometer" data-count="1000">00</h3>
-                            <span class="counter-one__plus">+</span>
-                        </div>
-                        <p class="counter-one__text">Product</p>
-                        <div class="counter-one__icon">
-                            <span class="icon-chainsaw"></span>
-                        </div>
-                    </li>
-                    <li class="wow fadeInUp" data-wow-delay="400ms">
-                        <div class="counter-one__count-box">
-                            <h3 class="odometer" data-count="59">00</h3>
-                            <span class="counter-one__plus">+</span>
-                        </div>
-                        <p class="counter-one__text">Brands</p>
-                        <div class="counter-one__icon">
-                            <span class="icon-award-certificate-education"></span>
-                        </div>
-                    </li>
-                </ul>
+                    </div>
+                </div>
             </div>
         </section>
-        <!--Counter One End-->
+        <!--Problem Solved Three End-->
 
+        <!--Statment Start-->
+        <section class="statment">
+            <div class="statment-shape-1 float-bob-x">
+                <img src="assets/images/shapes/statment-shape-1.png" alt="">
+            </div>
+            <div class="statment-shape-2 float-bob-x">
+                <img src="assets/images/shapes/statment-shape-2.png" alt="">
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6">
+                        <div class="statment__left">
+                            <div class="section-title text-left">
+                                <span class="section-title__tagline">OUR STATEMENTS</span>
+                                <h2 class="section-title__title">Statements that are both simple and powerful</h2>
+                            </div>
+                            <p class="statment__text-1">We, at Woodza provide all types of carpentry and carpentry.Lorem ipsum dolor sit amet conse ctetur porro quisquam est, qui dolorem ipsum quia dolor sit amet </p>
+                        </div>
+                    </div>
+                    <div class="col-xl-6">
+                        <div class="statment__right">
+                            <ul class="list-unstyled statment__count-list">
+                                <li>
+                                    <div class="statment__count-icon">
+                                        <span class="icon-success"></span>
+                                    </div>
+                                    <div class="statment__count-content-box">
+                                        <div class="statment__count-content">
+                                            <h3 class="odometer" data-count="30">10</h3>
+                                            <span class="statment__count-plus">+</span>
+                                        </div>
+                                        <p class="statment__count-text">Years of experience</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="statment__count-icon">
+                                        <span class="icon-maple-leaf"></span>
+                                    </div>
+                                    <div class="statment__count-content-box">
+                                        <div class="statment__count-content">
+                                            <h3 class="odometer" data-count="5700">5700</h3>
+                                            <span class="statment__count-plus">+</span>
+                                        </div>
+                                        <p class="statment__count-text">Satisfied clients</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="statment__count-icon">
+                                        <span class="icon-medal"></span>
+                                    </div>
+                                    <div class="statment__count-content-box">
+                                        <div class="statment__count-content">
+                                        <h3 class="odometer" data-count="1000">1000</h3>
+                                            <span class="statment__count-plus">+</span>
+                                        </div>
+                                        <p class="statment__count-text">Product</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="statment__count-icon">
+                                        <span class="icon-chainsaw"></span>
+                                    </div>
+                                    <div class="statment__count-content-box">
+                                        <div class="statment__count-content">
+                                            <h3 class="odometer" data-count="59">59</h3>
+                                            <span class="statment__count-plus">+</span>
+                                        </div>
+                                        <p class="statment__count-text">Brand</p>
+                                    </div>
+                                </li>
+                            </ul>
+                            <p class="statment__right-text">Choosing green energy is one of the biggest things you can do to fight the climate crisis</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Statment End-->
 
         <?php include('footer.php') ?>

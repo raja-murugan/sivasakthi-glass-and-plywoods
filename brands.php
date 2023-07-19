@@ -77,193 +77,102 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Our Services</h2>
+                    <h2>Meet Our Team</h2>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.html">Home</a></li>
                         <li><span>/</span></li>
-                        <li>Our Services</li>
+                        <li>Meet Our Team</li>
                     </ul>
                 </div>
             </div>
         </section>
         <!--Page Header End-->
 
-        <!--Services One Start-->
-        <section class="services-one">
-            <div class="services-one-bg" style="background-image: url(assets/images/backgrounds/services-one-bg.jpg);"></div>
+        <!--Team Page Start-->
+        <section class="team-page">
             <div class="container">
-                <div class="section-title text-center">
-                    <span class="section-title__tagline">our Services</span>
-                    <h2 class="section-title__title">Some Of Our Services</h2>
-                </div>
-                <div class="row">            
-                    <!--Services One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="services-one__single">
-                            <div class="services-one__img">
-                                <img src="assets/images/glass doors.jpeg" alt="">
-                            </div>
-                            <div class="services-one__content">
-                                <div class="services-one__icon">
-                                    <span class="icon-wood-pile"></span>
-                                </div>
-                                <h3 class="services-one__title"><a href="services.html">Glass Doors</a></h3>
-                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
-                                <div class="services-one__arrow">
-                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
+                <div class="row">
+                    <!--Team One Single Start-->
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/team/team-1-1.jpg" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title">Furniture Designing</p>
+                                    <h3 class="team-one__title"><a href="team.html">Adam Smite</a></h3>
                                 </div>
                             </div>
-                            <div class="services-one__shape-1"></div>
                         </div>
                     </div>
-                    <!--Services One Single End-->
-
-                    <!--Services One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="services-one__single">
-                            <div class="services-one__img">
-                                <img src="assets/images/wood4.jpeg" alt="">
-                            </div>
-                            <div class="services-one__content">
-                                <div class="services-one__icon">
-                                    <span class="icon-wood-pile"></span>
-                                </div>
-                                <h3 class="services-one__title"><a href="services.html"> Doors</a></h3>
-                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
-                                <div class="services-one__arrow">
-                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/team/team-1-2.jpg" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title">Co founder</p>
+                                    <h3 class="team-one__title"><a href="team.html">John David</a></h3>
                                 </div>
                             </div>
-                            <div class="services-one__shape-1"></div>
                         </div>
                     </div>
-                    <!--Services One Single End-->
-
-                    <!--Services One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="services-one__single">
-                            <div class="services-one__img">
-                                <img src="assets/images/doorhandels.jpeg" alt="">
-                            </div>
-                            <div class="services-one__content">
-                                <div class="services-one__icon">
-                                    <span class="icon-wood-pile"></span>
-                                </div>
-                                <h3 class="services-one__title"><a href="services.html"> Handels & Locks</a></h3>
-                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
-                                <div class="services-one__arrow">
-                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/team/team-1-3.jpg" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title">Designing</p>
+                                    <h3 class="team-one__title"><a href="team.html">Wiliam Tomas</a></h3>
                                 </div>
                             </div>
-                            <div class="services-one__shape-1"></div>
                         </div>
                     </div>
-                    <!--Services One Single End-->
-
-                    <!--Services One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="services-one__single">
-                            <div class="services-one__img">
-                                <img src="assets/images/window.jpeg" alt="">
-                            </div>
-                            <div class="services-one__content">
-                                <div class="services-one__icon">
-                                    <span class="icon-wood-pile"></span>
-                                </div>
-                                <h3 class="services-one__title"><a href="services.html">Window glasses</a></h3>
-                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
-                                <div class="services-one__arrow">
-                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/team/team-1-4.jpg" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title">Furniture Designing</p>
+                                    <h3 class="team-one__title"><a href="team.html">Alex Jon</a></h3>
                                 </div>
                             </div>
-                            <div class="services-one__shape-1"></div>
                         </div>
                     </div>
-                    <!--Services One Single End-->
-                  
-                    <!--Services One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="services-one__single">
-                            <div class="services-one__img">
-                                <img src="assets/images/platform1.jpeg" alt="">
-                            </div>
-                            <div class="services-one__content">
-                                <div class="services-one__icon">
-                                    <span class="icon-wood-pile"></span>
-                                </div>
-                                <h3 class="services-one__title"><a href="services.html">PlatForm Sheet</a></h3>
-                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
-                                <div class="services-one__arrow">
-                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="500ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/team/team-1-5.jpg" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title">Co founder</p>
+                                    <h3 class="team-one__title"><a href="team.html">Robat Robs</a></h3>
                                 </div>
                             </div>
-                            <div class="services-one__shape-1"></div>
                         </div>
                     </div>
-                    <!--Services One Single End-->
-                    <!--Services One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="services-one__single">
-                            <div class="services-one__img">
-                                <img src="assets/images/mdf1.jpeg" alt="">
-                            </div>
-                            <div class="services-one__content">
-                                <div class="services-one__icon">
-                                    <span class="icon-wood-pile"></span>
-                                </div>
-                                <h3 class="services-one__title"><a href="services.html">MDF SHEET</a></h3>
-                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
-                                <div class="services-one__arrow">
-                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/team/team-1-6.jpg" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title">Designing</p>
+                                    <h3 class="team-one__title"><a href="team.html">Tom Jaklas</a></h3>
                                 </div>
                             </div>
-                            <div class="services-one__shape-1"></div>
                         </div>
                     </div>
-                    <!--Services One Single End-->
-                    <!--Services One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="services-one__single">
-                            <div class="services-one__img">
-                                <img src="assets/images/ply1.jpeg" alt="">
-                            </div>
-                            <div class="services-one__content">
-                                <div class="services-one__icon">
-                                    <span class="icon-wood-pile"></span>
-                                </div>
-                                <h3 class="services-one__title"><a href="services.html">PLY WOOD</a></h3>
-                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
-                                <div class="services-one__arrow">
-                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                            <div class="services-one__shape-1"></div>
-                        </div>
-                    </div>
-                    <!--Services One Single End-->
-                    <!--Services One Single Start-->
-                    <div class="col-xl-3 col-lg-6 col-md-6">
-                        <div class="services-one__single">
-                            <div class="services-one__img">
-                                <img src="assets/images/services/services-1-3.jpg" alt="">
-                            </div>
-                            <div class="services-one__content">
-                                <div class="services-one__icon">
-                                    <span class="icon-wood-pile"></span>
-                                </div>
-                                <h3 class="services-one__title"><a href="services.html">Kitchen Modelus</a></h3>
-                                <!-- <p class="services-one__text">Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p> -->
-                                <div class="services-one__arrow">
-                                    <a href="#"><i class="fas fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                            <div class="services-one__shape-1"></div>
-                        </div>
-                    </div>
-                    <!--Services One Single End-->
+                    <!--Team One Single End-->
                 </div>
             </div>
         </section>
-        <!--Services One End-->
+        <!--Team Page End-->
         
         <?php include('footer.php') ?>

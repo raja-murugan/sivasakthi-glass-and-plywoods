@@ -56,7 +56,7 @@
                                     <a href="about.php">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="projects.php">Products</a>
+                                    <a href="products.php">Products</a>
                                 </li>
                                 <li>
                                     <a href="brands.php">Brands</a>

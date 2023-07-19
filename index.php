@@ -167,7 +167,7 @@
         <!--Main Slider End-->
 
         <!--Famous Company Start-->
-        <section class="famous-company d-none">
+        <section class="famous-company">
             <div class="famous-company-shape-1 float-bob-x">
                 <img src="assets/images/shapes/famous-company-shape-1.png" alt="">
             </div>

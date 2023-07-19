@@ -21,15 +21,14 @@
                         <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                             <div class="footer-widget__column footer-widget__service clearfix">
                                 <div class="footer-widget__title-box">
-                                    <h3 class="footer-widget__title">Services</h3>
+                                    <h3 class="footer-widget__title">Products</h3>
                                 </div>
                                 <ul class="footer-widget__service-list list-unstyled clearfix">
-                                    <li><a href="">Glassdoors</a></li>
+                                    <li><a href="">Glass</a></li>
+                                    <li><a href="">Doors</a></li>
                                     <li><a href="">Plywoods</a></li>
-                                    <!-- <li><a href="">Mica Works</a></li> -->
-                                    <li><a href="">Platform Sheets</a></li>
-                                    <li><a href="">Modular Kitchen</a></li>
-                                    <li><a href="">Glass Printing</a></li>
+                                    <li><a href="">Hardware Material</a></li>
+                                    <li><a href="">Kitchen Equipments</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -41,8 +40,8 @@
                                 <ul class="footer-widget__link-list list-unstyled clearfix">
                                     <li><a href="index.php">Home</a></li>
                                     <li><a href="about.php">About us</a></li>
-                                    <li><a href="projects.php">Projects</a></li>
-                                    <li><a href="services.php">Services</a></li>
+                                    <li><a href="products.php">Products</a></li>
+                                    <li><a href="brands.php">Brands</a></li>
                                     <li><a href="contact-us.php">Contact Us</a></li>
                                 </ul>
                             </div>
@@ -58,7 +57,7 @@
                                             <span class="icon-email-1"></span>
                                         </div>
                                         <div class="text">
-                                            <p><a href="mailto:helpus24@gmail.com">trichysivasakthi@gmail.com</a></p>
+                                            <p><a href="mailto:trichysivasakthi@gmail.com">trichysivasakthi@gmail.com</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -66,7 +65,7 @@
                                             <span class="icon-phone"></span>
                                         </div>
                                         <div class="text">
-                                            <p><a href="tel:+91 95666 20099">+91 95666 20099</a></p>
+                                            <p><a href="tel:+919566620099">+91 95666 20099</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -118,11 +117,11 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:needhelp@packageName__.com">trichysivasakthi@gmail.com</a>
+                    <a href="mailto:trichysivasakthi@gmail.com">trichysivasakthi@gmail.com</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>
-                    <a href="tel:+91 73732 63828">+91 73732 63828</a>
+                    <a href="tel:+919566620099">+91 95666 20099</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
