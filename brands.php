@@ -77,11 +77,11 @@
             </div>
             <div class="container">
                 <div class="page-header__inner">
-                    <h2>Meet Our Team</h2>
+                    <h2>Brands</h2>
                     <ul class="thm-breadcrumb list-unstyled">
                         <li><a href="index.html">Home</a></li>
                         <li><span>/</span></li>
-                        <li>Meet Our Team</li>
+                        <li>Brands</li>
                     </ul>
                 </div>
             </div>
