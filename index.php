@@ -83,7 +83,7 @@
                 <div class="swiper-wrapper">
 
                     <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-1.jpg);"></div>
+                        <div class="image-layer" style="background-image: url(assets/image/banner/b1.jpeg);"></div>
                         <!-- /.image-layer -->
                         <div class="main-slider-overly-one"></div>
                         <div class="main-slider-overly-two"></div>
@@ -93,7 +93,7 @@
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">Sivasakthi Glass and Playwoods</p>
+                                        <p class="main-slider__sub-title">Sivasakthi Glass & Playwoods</p>
                                         <h2 class="main-slider__title">Elegant Woodwork,<br /> Stylish Glass <br>Works</h2>
                                         <div class="main-slider__btn-box">
                                             <a href="services.html" class="thm-btn main-slider__btn">Our Services</a>
@@ -105,7 +105,7 @@
                     </div>
 
                     <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-2.jpg);"></div>
+                        <div class="image-layer" style="background-image: url(assets/image/banner/b2.jpg);"></div>
                         <!-- /.image-layer -->
                         <div class="main-slider-overly-one"></div>
                         <div class="main-slider-overly-two"></div>
@@ -115,7 +115,7 @@
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">Sivasakthi Plywoods and Glassdoors</p>
+                                        <p class="main-slider__sub-title">Sivasakthi Glass & Playwoods</p>
                                         <h2 class="main-slider__title">Expert Plywood,<br/>Stunning Glass<br/> Doors</h2>
                                         <div class="main-slider__btn-box">
                                             <a href="services.html" class="thm-btn main-slider__btn">Our Services</a>
@@ -127,7 +127,7 @@
                     </div>
 
                     <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-3.jpg);"></div>
+                        <div class="image-layer" style="background-image: url(assets/image/banner/b3.jpg);"></div>
                         <!-- /.image-layer -->
                         <div class="main-slider-overly-one"></div>
                         <div class="main-slider-overly-two"></div>
@@ -137,7 +137,7 @@
                             <div class="row">
                                 <div class="col-xl-12">
                                     <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">Quality Plywoods and Glassdoors</p>
+                                        <p class="main-slider__sub-title">Sivasakthi Glass & Playwoods</p>
                                         <h2 class="main-slider__title">We Provide the <br> quality Carpentry <br>
                                             Services</h2>
                                         <div class="main-slider__btn-box">
@@ -261,13 +261,13 @@
                         <div class="why-choose-one__left wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                             <div class="why-choose-one__img-box">
                                 <div class="why-choose-one__img">
-                                    <img src="assets/images/resources/why-choose-one-img-1.jpg" alt="">
+                                    <img src="assets/image/about/a1.webp" alt="">
                                     <div class="why-choose-one__dot float-bob-y">
                                         <img src="assets/images/shapes/why-choose-one-dot.png" alt="">
                                     </div>
                                 </div>
                                 <div class="why-choose-one__img-two">
-                                    <img src="assets/images/resources/why-choose-one-img-2.jpg" alt="">
+                                    <img src="assets/image/about/a2.jpg" alt="">
                                 </div>
                                 <div class="why-choose-one__border"></div>
                                 <div class="why-choose-one__customer-service">
@@ -330,7 +330,7 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="services-one__single">
                             <div class="services-one__img">
-                                <img src="assets/images/services/services-1-1.jpg" alt="">
+                                <img src="assets/image/product/1.jpg" alt="">
                             </div>
                             <div class="services-one__content">
                                 <div class="services-one__icon">
@@ -346,7 +346,7 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="services-one__single">
                             <div class="services-one__img">
-                                <img src="assets/images/services/services-1-2.jpg" alt="">
+                                <img src="assets/image/product/2.jpg" alt="">
                             </div>
                             <div class="services-one__content">
                                 <div class="services-one__icon">
@@ -362,7 +362,7 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                         <div class="services-one__single">
                             <div class="services-one__img">
-                                <img src="assets/images/services/services-1-3.jpg" alt="">
+                                <img src="assets/image/product/3.webp" alt="">
                             </div>
                             <div class="services-one__content">
                                 <div class="services-one__icon">
@@ -378,7 +378,7 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                         <div class="services-one__single">
                             <div class="services-one__img">
-                                <img src="assets/images/services/services-1-4.jpg" alt="">
+                                <img src="assets/image/product/3.jpg" alt="">
                             </div>
                             <div class="services-one__content">
                                 <div class="services-one__icon">
