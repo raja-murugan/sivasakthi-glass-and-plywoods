@@ -96,10 +96,10 @@
                     <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/team/team-1-1.jpg" alt="">
+                                <img src="assets/images/logos/ebco.png" alt="">
                                 <div class="team-one__content">
-                                    <p class="team-one__sub-title">Furniture Designing</p>
-                                    <h3 class="team-one__title"><a href="team.html">Adam Smite</a></h3>
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
                                 </div>
                             </div>
                         </div>
@@ -109,10 +109,10 @@
                     <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/team/team-1-2.jpg" alt="">
+                                <img src="assets/images/logoS/BONUS.Png" alt="">
                                 <div class="team-one__content">
-                                    <p class="team-one__sub-title">Co founder</p>
-                                    <h3 class="team-one__title"><a href="team.html">John David</a></h3>
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
                                 </div>
                             </div>
                         </div>
@@ -122,10 +122,10 @@
                     <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="300ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/team/team-1-3.jpg" alt="">
+                                <img src="assets/images/logos/3M.png" alt="">
                                 <div class="team-one__content">
-                                    <p class="team-one__sub-title">Designing</p>
-                                    <h3 class="team-one__title"><a href="team.html">Wiliam Tomas</a></h3>
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
                                 </div>
                             </div>
                         </div>
@@ -135,10 +135,10 @@
                     <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/team/team-1-4.jpg" alt="">
+                                <img src="assets/images/logos/CENTURY MICA.png" alt="">
                                 <div class="team-one__content">
-                                    <p class="team-one__sub-title">Furniture Designing</p>
-                                    <h3 class="team-one__title"><a href="team.html">Alex Jon</a></h3>
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
                                 </div>
                             </div>
                         </div>
@@ -148,10 +148,10 @@
                     <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="500ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/team/team-1-5.jpg" alt="">
+                                <img src="assets/images/logos/ARALDITE.png" alt="">
                                 <div class="team-one__content">
-                                    <p class="team-one__sub-title">Co founder</p>
-                                    <h3 class="team-one__title"><a href="team.html">Robat Robs</a></h3>
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
                                 </div>
                             </div>
                         </div>
@@ -161,15 +161,601 @@
                     <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
                         <div class="team-one__single">
                             <div class="team-one__img">
-                                <img src="assets/images/team/team-1-6.jpg" alt="">
+                                <img src="assets/images/logos/enox.png" alt="">
                                 <div class="team-one__content">
-                                    <p class="team-one__sub-title">Designing</p>
-                                    <h3 class="team-one__title"><a href="team.html">Tom Jaklas</a></h3>
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/ACTION TESA.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                   <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/AIS.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/CENTURY MDF.jpeg" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/Godrej.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/CNR.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/century plywood.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/amozone.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End--><!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/HIKOKOKI.png "alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/algo.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                   <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/DOORMA.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/BOOS.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                   <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/ARCHIDPHY.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/FABER.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/CRYSIL.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/sleek.jpg" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/SHARON.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/GLEN.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/DOOR SET.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/GOLDPLUS.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html">GOLDPLUS</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/KIT.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                   <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/GREENLAM.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/fine.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/fevicol-logo.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/OZONE.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/imax.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/KAFF.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/nova.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/hafele.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/real bond.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/hettich.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/NEW MICA.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/kajaria.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/MAKITA.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/MERINO.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/HARDWYN.JPEG" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/SAINT.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/europa.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/QUBA2.jpeg "alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html"></a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                    <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/SPIDER1.jpeg" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html">SPIDER</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/TORJAN1.jpeg" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html">TORJAN</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/TRIVENT.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html">TRIVENT</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+                     <!--Team One Single End-->
+                     <!--Team One Single Start-->
+                    <div class="col-xl-2 col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <div class="team-one__single">
+                            <div class="team-one__img">
+                                <img src="assets/images/logos/VIR MDF.png" alt="">
+                                <div class="team-one__content">
+                                    <p class="team-one__sub-title"></p>
+                                    <h3 class="team-one__title"><a href="team.html">VIR MDF</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Team One Single End-->
+
+
+
+
+
+
                 </div>
             </div>
         </section>
