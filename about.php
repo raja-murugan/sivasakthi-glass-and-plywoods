@@ -72,7 +72,7 @@
 
         <!--Page Header Start-->
         <section class="page-header">
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg-2.jpg)">
+            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/counter-two-bg.jpg)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
@@ -130,14 +130,14 @@
                                 <span class="section-title__tagline">our journey</span>
                                 <h2 class="section-title__title">Welcome to Sivasakthi Plywoods</h2>
                             </div>
-                            <p class="why-choose-one__text-1">At Sivasakthi glassdoors, we specialize in providing top-notch solutions for glass doors and plywood needs. With years of industry experience, our team of experts is committed to delivering exceptional craftsmanship and premium materials. Whether you're looking for stylish glass doors or durable plywood solutions, we are dedicated to transforming your spaces with our high-quality products.</p>
+                            <p class="why-choose-one__text-1">At Sivasakthi, we are dedicated to providing top-notch solutions for glass doors and plywood needs. With years of industry experience, our expert team is committed to delivering exceptional craftsmanship using premium materials. Whether you seek stylish glass doors or durable plywood solutions, we offer a wide range of options, including custom designs and top-grade materials. Trust us to transform your spaces with our high-quality products, ensuring elegance and functionality in every project.</p>
                             <ul class="list-unstyled why-choose-one__points">
                                 <li>
                                     <div class="icon">
                                         <span class="icon-check"></span>
                                     </div>
                                     <div class="text">
-                                        <p>We provide the most reasonable cost.</p>
+                                        <p>Most reasonable cost</p>
                                     </div>
                                 </li>
                                 <li>
@@ -145,7 +145,7 @@
                                         <span class="icon-check"></span>
                                     </div>
                                     <div class="text">
-                                        <p>Finish work before Deadline</p>
+                                        <p>On-time delivery</p>
                                     </div>
                                 </li>
                             </ul>
@@ -168,8 +168,8 @@
                                 </div>
                             </div>
                             <div class="problem-solved-three__content">
-                                <h3 class="problem-solved-three__title">3k Problems Solved</h3>
-                                <p class="problem-solved-three__text">Every business is different, Lorem ipsum is simply free text used.</p>
+                                <h3 class="problem-solved-three__title">5k customers served</h3>
+                                <p class="problem-solved-three__text">with exceptional and expert assistance, reflected in their positive reviews.</p>
                             </div>
                         </div>
                     </div>
@@ -178,7 +178,7 @@
                             <div class="problem-solved-three__call">
                                 <h5 class="problem-solved-three__sub-title">Have An Emergency?</h5>
                                 <a href="tel:1144454789"> <span class="icon-phone"></span> +91 95666 20099</a>
-                                <p class="problem-solved-three__text-2">Lpsum dolor sit amet consectetur adipiscing elit wood expert</p>
+                                <p class="problem-solved-three__text-2">Got anything important to enquire don't wait, call right away 24/7</p>
                             </div>
                             <div class="problem-solved-three__trusted">
                                 <div class="problem-solved-three__trusted-img">
@@ -212,9 +212,9 @@
                         <div class="statment__left">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">OUR STATEMENTS</span>
-                                <h2 class="section-title__title">Statements that are both simple and powerful</h2>
+                                <h2 class="section-title__title">Building trust through exceptional service and products</h2>
                             </div>
-                            <p class="statment__text-1">We, at Woodza provide all types of carpentry and carpentry.Lorem ipsum dolor sit amet conse ctetur porro quisquam est, qui dolorem ipsum quia dolor sit amet </p>
+                            <p class="statment__text-1">Experience unwavering trust with our proven track record of delivering top-notch glass doors and plywood solutions. Your satisfaction is our ultimate commitment.</p>
                         </div>
                     </div>
                     <div class="col-xl-6">
@@ -269,7 +269,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <p class="statment__right-text">Choosing green energy is one of the biggest things you can do to fight the climate crisis</p>
+                            <p class="statment__right-text">Your confidence in us is well-placed. We deliver premium glass doors and plywood solutions with a trusted reputation.</p>
                         </div>
                     </div>
                 </div>

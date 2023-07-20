@@ -24,7 +24,7 @@
                             </div>
                             <div class="content">
                                 <p>Quick Email Now!</p>
-                                <h5><a href="mailto:helpus24@gmail.com">trichysivasakthi@gmail.com</a></h5>
+                                <h5><a href="mailto:trichysivasakthi@gmail.com">trichysivasakthi@gmail.com</a></h5>
                             </div>
                         </li>
                         <li>

@@ -93,7 +93,7 @@
                                 <div class="col-xl-12">
                                     <div class="main-slider__content">
                                         <p class="main-slider__sub-title">Sivasakthi Glass & Playwoods</p>
-                                        <h2 class="main-slider__title">Elegant Woodwork,<br /> Stylish Glass <br>Works</h2>
+                                        <h2 class="main-slider__title">Elegance meets durability glass doors and plywood</h2>
                                         <div class="main-slider__btn-box">
                                             <a href="servicesjavascript::void(o);" class="thm-btn main-slider__btn">Our Services</a>
                                         </div>
@@ -115,7 +115,7 @@
                                 <div class="col-xl-12">
                                     <div class="main-slider__content">
                                         <p class="main-slider__sub-title">Sivasakthi Glass & Playwoods</p>
-                                        <h2 class="main-slider__title">Expert Plywood,<br/>Stunning Glass<br/> Doors</h2>
+                                        <h2 class="main-slider__title">Premium plywood solutions for exceptional spaces</h2>
                                         <div class="main-slider__btn-box">
                                             <a href="servicesjavascript::void(o);" class="thm-btn main-slider__btn">Our Services</a>
                                         </div>
@@ -137,8 +137,7 @@
                                 <div class="col-xl-12">
                                     <div class="main-slider__content">
                                         <p class="main-slider__sub-title">Sivasakthi Glass & Playwoods</p>
-                                        <h2 class="main-slider__title">We Provide the <br> quality Carpentry <br>
-                                            Services</h2>
+                                        <h2 class="main-slider__title">Transform spaces with top-qualuity glass doors</h2>
                                         <div class="main-slider__btn-box">
                                             <a href="servicesjavascript::void(o);" class="thm-btn main-slider__btn">Our Services</a>
                                         </div>
@@ -179,7 +178,7 @@
                                 <img src="assets/images/icon/famous-company-icon-1.png" alt="">
                             </div>
                             <h3 class="famous-company__title"><a href="carpentryjavascript::void(o);">Creative works</a></h3>
-                            <p class="famous-company__text">Expressive Woodworking at Its Finest</p>
+                            <p class="famous-company__text">Innovative Designs Beyond Your Imagination !</p>
                             <div class="famous-company__shape-1"></div>
                         </div>
                     </div>
@@ -191,7 +190,7 @@
                                 <img src="assets/images/icon/famous-company-icon-2.png" alt="">
                             </div>
                             <h3 class="famous-company__title"><a href="about.php">Certified Materials</a></h3>
-                            <p class="famous-company__text">Trusted Source for Certified Materials </p>
+                            <p class="famous-company__text">Quality Assured Trusted and Certified Products !</p>
                             <div class="famous-company__shape-1"></div>
                         </div>
                     </div>
@@ -203,7 +202,7 @@
                                 <img src="assets/images/icon/famous-company-icon-3.png" alt="">
                             </div>
                             <h3 class="famous-company__title"><a href="about.php"> Very Cheap Rates</a></h3>
-                            <p class="famous-company__text">Budget-Friendly Options without Compromise </p>
+                            <p class="famous-company__text">Budget-Friendly DealsUnbeatable Price !</p>
                             <div class="famous-company__shape-1"></div>
                         </div>
                     </div>
@@ -215,7 +214,7 @@
                                 <img src="assets/images/icon/famous-company-icon-4.png" alt="">
                             </div>
                             <h3 class="famous-company__title"><a href="kitchen-modelingjavascript::void(o);">Quality Materials</a></h3>
-                            <p class="famous-company__text">Finest Selection of High-Quality Materials </p>
+                            <p class="famous-company__text">Premium Selection Uncompromising Quality !</p>
                             </div>
                             <div class="famous-company__shape-1"></div>
                         </div>
@@ -266,14 +265,14 @@
                                 <span class="section-title__tagline">our journey</span>
                                 <h2 class="section-title__title">Welcome to Sivasakthi</h2>
                             </div>
-                            <p class="why-choose-one__text-1">At Sivasakthi, we specialize in providing top-notch solutions for glass doors and plywood needs. With years of industry experience, our team of experts is committed to delivering exceptional craftsmanship and premium materials. Whether you're looking for stylish glass doors or durable plywood solutions, we are dedicated to transforming your spaces with our high-quality products.</p>
+                            <p class="why-choose-one__text-1">At Sivasakthi, we are dedicated to providing top-notch solutions for glass doors and plywood needs. With years of industry experience, our expert team is committed to delivering exceptional craftsmanship using premium materials. Whether you seek stylish glass doors or durable plywood solutions, we offer a wide range of options, including custom designs and top-grade materials. Trust us to transform your spaces with our high-quality products, ensuring elegance and functionality in every project.</p>
                             <ul class="list-unstyled why-choose-one__points">
                                 <li>
                                     <div class="icon">
                                         <span class="icon-check"></span>
                                     </div>
                                     <div class="text">
-                                        <p>We provide the most reasonable cost.</p>
+                                        <p>Most Reasonable Cost</p>
                                     </div>
                                 </li>
                                 <li>
@@ -281,7 +280,7 @@
                                         <span class="icon-check"></span>
                                     </div>
                                     <div class="text">
-                                        <p>Finish work before Deadline</p>
+                                        <p>On Time Delivery</p>
                                     </div>
                                 </li>
                             </ul>
@@ -430,8 +429,7 @@
                                 <span class="section-title__tagline">Testimonial</span>
                                 <h2 class="section-title__title">Words From Our Customer</h2>
                             </div>
-                            <p class="testimonial-one__text">Lorem Ipsum available, but the majority have suffered
-                                dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua ipsum quia </p>
+                            <p class="testimonial-one__text">Welcome to Sivasakthi! Our delighted customers have experienced the excellence of our top-notch solutions for glass doors and plywood needs. Discover the difference in quality and creativity today!</p>
                         </div>
                     </div>
                     <div class="col-lg-7">
@@ -463,17 +461,14 @@
                                 <!--Testimonial One Single Start-->
                                 <div class="item">
                                     <div class="testimonial-one__single">
-                                        <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                            suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                            ipsum quia</p>
+                                        <p class="testimonial-one__text-2">Sivasakthi's creative works have transformed my space into a masterpiece. Their attention to detail and quality materials made all the difference!</p>
                                         <div class="testimonial-one__client-info">
                                             <div class="testimonial-one__client-details">
                                                 <div class="testimonial-one__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-one-client-img-1.jpg" alt="">
+                                                    <img src="assets/images/favicons/apple-touch-icon.png" alt="">
                                                 </div>
                                                 <div class="testimonial-one__client-content">
-                                                    <h4>Wiliam Adak</h4>
-                                                    <p>Client for Woodin</p>
+                                                    <h4>Dinesh Kumar</h4>
                                                 </div>
                                             </div>
                                             <div class="testimonial-one__quote">
@@ -486,17 +481,14 @@
                                 <!--Testimonial One Single Start-->
                                 <div class="item">
                                     <div class="testimonial-one__single">
-                                        <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                            suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                            ipsum quia</p>
+                                        <p class="testimonial-one__text-2">I am delighted with the certified materials used by Sivasakthi. Their products are not only beautiful but also reliable and long-lasting.</p>
                                         <div class="testimonial-one__client-info">
                                             <div class="testimonial-one__client-details">
                                                 <div class="testimonial-one__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-one-client-img-2.jpg" alt="">
+                                                    <img src="assets/images/favicons/apple-touch-icon.png" alt="">
                                                 </div>
                                                 <div class="testimonial-one__client-content">
-                                                    <h4>Wiliam Smith</h4>
-                                                    <p>Client for Woodin</p>
+                                                    <h4>Ramesh Govind</h4>
                                                 </div>
                                             </div>
                                             <div class="testimonial-one__quote">
@@ -509,17 +501,14 @@
                                 <!--Testimonial One Single Start-->
                                 <div class="item">
                                     <div class="testimonial-one__single">
-                                        <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                            suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                            ipsum quia</p>
+                                        <p class="testimonial-one__text-2">I couldn't believe the very cheap rates for such top-notch products! Sivasakthi provided outstanding value without compromising on quality.</p>
                                         <div class="testimonial-one__client-info">
                                             <div class="testimonial-one__client-details">
                                                 <div class="testimonial-one__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-one-client-img-1.jpg" alt="">
+                                                    <img src="assets/images/favicons/apple-touch-icon.png" alt="">
                                                 </div>
                                                 <div class="testimonial-one__client-content">
-                                                    <h4>Wiliam Adak</h4>
-                                                    <p>Client for Woodin</p>
+                                                    <h4>Thiyagu Ram</h4>
                                                 </div>
                                             </div>
                                             <div class="testimonial-one__quote">
@@ -532,17 +521,14 @@
                                 <!--Testimonial One Single Start-->
                                 <div class="item">
                                     <div class="testimonial-one__single">
-                                        <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                            suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                            ipsum quia</p>
+                                        <p class="testimonial-one__text-2">Highly impressed with the unique concepts and original masterpieces created by Sivasakthi. Their creative designs truly set them apart from the rest.</p>
                                         <div class="testimonial-one__client-info">
                                             <div class="testimonial-one__client-details">
                                                 <div class="testimonial-one__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-one-client-img-2.jpg" alt="">
+                                                    <img src="assets/images/favicons/apple-touch-icon.png" alt="">
                                                 </div>
                                                 <div class="testimonial-one__client-content">
-                                                    <h4>Wiliam Smith</h4>
-                                                    <p>Client for Woodin</p>
+                                                    <h4>Jayaraman</h4>
                                                 </div>
                                             </div>
                                             <div class="testimonial-one__quote">
@@ -555,40 +541,14 @@
                                 <!--Testimonial One Single Start-->
                                 <div class="item">
                                     <div class="testimonial-one__single">
-                                        <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                            suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                            ipsum quia</p>
+                                        <p class="testimonial-one__text-2">From start to finish, Sivasakthi delivered excellence in every aspect. The premium selection of materials made my project a total success. Highly recommend!</p>
                                         <div class="testimonial-one__client-info">
                                             <div class="testimonial-one__client-details">
                                                 <div class="testimonial-one__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-one-client-img-1.jpg" alt="">
+                                                    <img src="assets/images/favicons/apple-touch-icon.png" alt="">
                                                 </div>
                                                 <div class="testimonial-one__client-content">
-                                                    <h4>Wiliam Adak</h4>
-                                                    <p>Client for Woodin</p>
-                                                </div>
-                                            </div>
-                                            <div class="testimonial-one__quote">
-                                                <span class="icon-quote"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Testimonial One Single End-->
-                                <!--Testimonial One Single Start-->
-                                <div class="item">
-                                    <div class="testimonial-one__single">
-                                        <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                            suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                            ipsum quia</p>
-                                        <div class="testimonial-one__client-info">
-                                            <div class="testimonial-one__client-details">
-                                                <div class="testimonial-one__client-img">
-                                                    <img src="assets/images/testimonial/testimonial-one-client-img-2.jpg" alt="">
-                                                </div>
-                                                <div class="testimonial-one__client-content">
-                                                    <h4>Wiliam Smith</h4>
-                                                    <p>Client for Woodin</p>
+                                                    <h4>Muthu Pandi</h4>
                                                 </div>
                                             </div>
                                             <div class="testimonial-one__quote">
@@ -645,148 +605,28 @@
                             }'>
                                 <!--Testimonial One Single Start-->
                                 <div class="item">
-                                    <img src="assets/images/brands/1.jpeg" alt="">
+                                <img src="assets/images/logos/3M.png" alt="">
                                 </div>
                                 <div class="item">
-                                    <img src="assets/images/brands/2.jpg" alt="">
+                                <img src="assets/images/logos/century plywood.png" alt="">
                                 </div>
                                 <div class="item">
-                                    <img src="assets/images/brands/3.png" alt="">
+                                <img src="assets/images/logos/SHARON.png" alt="">
                                 </div>
                                 <div class="item">
-                                    <img src="assets/images/brands/4.jpeg" alt="">
+                                <img src="assets/images/logos/sleek.jpg" alt="">
                                 </div>
                                 <div class="item">
-                                    <img src="assets/images/brands/5.png" alt="">
+                                <img src="assets/images/logos/ARALDITE.png" alt="">
                                 </div>
                                 <div class="item">
-                                    <img src="assets/images/brands/6.jpeg" alt="">
+                                <img src="assets/images/logos/enox.png" alt="">
                                 </div>
                                 <div class="item">
-                                    <img src="assets/images/brands/7.Png" alt="">
+                                <img src="assets/images/logos/ACTION TESA.png" alt="">
                                 </div>
                                 <div class="item">
-                                    <img src="assets/images/brands/9.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/11.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/13.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/15.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/17.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/19.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/20.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/21.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/22.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/23.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/24.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/25.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/26.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/27.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/28.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/29.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/30.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/31.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/32.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/33.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/34.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/35.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/36.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/37.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/38.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/39.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/40.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/41.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/42.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/43.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/44.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/45.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/46.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/47.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/49.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/50.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/51.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/52.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/53.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/54.png" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="assets/images/brands/55.png" alt="">
+                                <img src="assets/images/logos/KIT.png" alt="">
                                 </div>
                             </div>
                         </div>

@@ -13,8 +13,7 @@
                                 </div>
                                 <div class="site-footer__social">
                                     <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -24,11 +23,11 @@
                                     <h3 class="footer-widget__title">Products</h3>
                                 </div>
                                 <ul class="footer-widget__service-list list-unstyled clearfix">
-                                    <li><a href="">Glass</a></li>
-                                    <li><a href="">Doors</a></li>
+                                    <li><a href="glass-product.php">Glass</a></li>
+                                    <li><a href="door-product.php">Doors</a></li>
                                     <li><a href="">Plywoods</a></li>
                                     <li><a href="">Hardware Material</a></li>
-                                    <li><a href="">Kitchen Equipments</a></li>
+                                    <li><a href="kitchen-equipment-product.php">Kitchen Equipments</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -87,8 +86,8 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="site-footer__bottom-inner">
-                                <p class="site-footer__bottom-text">© 2023 <a href="#">Sivasakthi Glass & Playwoods</a> All Rights
-                                    Reserved from <a htef="https://zworktechnology.com/">Zwork Technology</a></p>
+                                <p class="site-footer__bottom-text">© 2023 <a href="https://zworktechnology.com/" target="_blank">Zwork Technology.</a> All Rights
+                                    Reserved.</p>
                             </div>
                         </div>
                     </div>
@@ -126,9 +125,7 @@
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
-                    <a href="#" class="fab fa-twitter"></a>
                     <a href="#" class="fab fa-facebook-square"></a>
-                    <a href="#" class="fab fa-pinterest-p"></a>
                     <a href="#" class="fab fa-instagram"></a>
                 </div><!-- /.mobile-nav__social -->
             </div><!-- /.mobile-nav__top -->
