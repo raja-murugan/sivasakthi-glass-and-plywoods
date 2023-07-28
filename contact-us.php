@@ -136,7 +136,8 @@
                         <div class="contact-page__right">
                             <h3 class="contact-page__right-title mb-5">Send a message</h3>
                             <!-- <p class="contact-page__right-text">Lorem ipsum dolor sit amet consectetur adipiscing elit <br> We'd love to hear for you</p> -->
-                            <form action="assets/inc/sendemail.php" class="contact-page__form contact-form-validated" novalidate="novalidate">
+                            <form action="mail.php" method="post" data-aos="fade-left"
+								data-aos-duration="1000" class="contact_form contact-page__form contact-form-validated" novalidate="novalidate">
                                 <div class="row">
                                     <div class="col-xl-6 col-lg-6">
                                         <div class="contact-page__input-box">
@@ -150,7 +151,7 @@
                                     </div>
                                     <div class="col-xl-6 col-lg-6">
                                         <div class="contact-page__input-box">
-                                            <input type="text" placeholder="Phone" name="Phone">
+                                            <input type="text" placeholder="Phone" name="phone">
                                         </div>
                                     </div>
                                     <div class="col-xl-6 col-lg-6">
