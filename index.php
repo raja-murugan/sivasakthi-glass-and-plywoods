@@ -95,29 +95,7 @@
                                         <p class="main-slider__sub-title">Sivasakthi Glass & Playwoods</p>
                                         <h2 class="main-slider__title">Elegance meets durability glass doors and plywood</h2>
                                         <div class="main-slider__btn-box">
-                                            <a href="servicesjavascript::void(o);" class="thm-btn main-slider__btn">Our Services</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/image/banner/b2.jpg);"></div>
-                        <!-- /.image-layer -->
-                        <div class="main-slider-overly-one"></div>
-                        <div class="main-slider-overly-two"></div>
-
-
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-xl-12">
-                                    <div class="main-slider__content">
-                                        <p class="main-slider__sub-title">Sivasakthi Glass & Playwoods</p>
-                                        <h2 class="main-slider__title">Premium plywood solutions for exceptional spaces</h2>
-                                        <div class="main-slider__btn-box">
-                                            <a href="servicesjavascript::void(o);" class="thm-btn main-slider__btn">Our Services</a>
+                                            <a href="glass-product.php" class="thm-btn main-slider__btn">Know More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -137,9 +115,31 @@
                                 <div class="col-xl-12">
                                     <div class="main-slider__content">
                                         <p class="main-slider__sub-title">Sivasakthi Glass & Playwoods</p>
-                                        <h2 class="main-slider__title">Transform spaces with top-qualuity glass doors</h2>
+                                        <h2 class="main-slider__title">Premium plywood solutions for exceptional spaces</h2>
                                         <div class="main-slider__btn-box">
-                                            <a href="servicesjavascript::void(o);" class="thm-btn main-slider__btn">Our Services</a>
+                                            <a href="products.php" class="thm-btn main-slider__btn">Know More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="image-layer" style="background-image: url(assets/image/banner/b2.jpg);"></div>
+                        <!-- /.image-layer -->
+                        <div class="main-slider-overly-one"></div>
+                        <div class="main-slider-overly-two"></div>
+
+
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-xl-12">
+                                    <div class="main-slider__content">
+                                        <p class="main-slider__sub-title">Sivasakthi Glass & Playwoods</p>
+                                        <h2 class="main-slider__title">Transform spaces with top-qualuity kitchen equipment</h2>
+                                        <div class="main-slider__btn-box">
+                                            <a href="kitchen-equipment-product.php" class="thm-btn main-slider__btn">Know More</a>
                                         </div>
                                     </div>
                                 </div>
@@ -311,7 +311,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-table"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="wood-fruniturejavascript::void(o);">Plywoods</a></h3>
+                                <h3 class="services-one__title"><a href="products.php">Plywoods</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -327,7 +327,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-chainsaw"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="servicesjavascript::void(o);">Glass</a></h3>
+                                <h3 class="services-one__title"><a href="glass-product.php">Glass</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -343,7 +343,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-wood-pile"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="servicesjavascript::void(o);">Door</a></h3>
+                                <h3 class="services-one__title"><a href="door-product.php">Door</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>
@@ -359,7 +359,7 @@
                                 <div class="services-one__icon">
                                     <span class="icon-table"></span>
                                 </div>
-                                <h3 class="services-one__title"><a href="wood-fruniturejavascript::void(o);">Locker</a></h3>
+                                <h3 class="services-one__title"><a href="locker-product.php">Locker</a></h3>
                             </div>
                             <div class="services-one__shape-1"></div>
                         </div>

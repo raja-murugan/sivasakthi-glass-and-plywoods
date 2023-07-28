@@ -152,11 +152,11 @@
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="hardwood-flooringjavascript::void(o);">Plywood</a></h3>
+                                    <h3 class="project-two__title"><a href="javascript::void(o);">Plywood</a></h3>
                                     <p class="project-two__sub-title">Plywood & Others...</p>
                                 </div>
                                 <div class="project-two__arrow">
-                                    <a href="hardwood-flooringjavascript::void(o);"><i class="fas fa-arrow-right"></i></a>
+                                    <a href="javascript::void(o);"><i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -170,11 +170,11 @@
                             </div>
                             <div class="project-two__content">
                                 <div class="project-two__title-box">
-                                    <h3 class="project-two__title"><a href="celling-roofingjavascript::void(o);">Hardware Material</a></h3>
+                                    <h3 class="project-two__title"><a href="javascript::void(o);">Hardware Material</a></h3>
                                     <p class="project-two__sub-title">Door Handles, Glulu & Others...</p>
                                 </div>
                                 <div class="project-two__arrow">
-                                    <a href="celling-roofingjavascript::void(o);"><i class="fas fa-arrow-right"></i></a>
+                                    <a href="javascript::void(o);"><i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

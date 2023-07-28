@@ -12,8 +12,8 @@
                                     <a href="index.php"><img src="assets/images/logo.png" alt="" style="height: 70px; width: 130px;"></a>
                                 </div>
                                 <div class="site-footer__social">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.facebook.com/sivasakthiglassandplywoods"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="https://instagram.com/sivasakthi_glass_and_plywoods"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -125,8 +125,8 @@
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
                 <div class="mobile-nav__social">
-                    <a href="#" class="fab fa-facebook-square"></a>
-                    <a href="#" class="fab fa-instagram"></a>
+                    <a href="https://www.facebook.com/sivasakthiglassandplywoods" class="fab fa-facebook-square"></a>
+                    <a href="https://instagram.com/sivasakthi_glass_and_plywoods" class="fab fa-instagram"></a>
                 </div><!-- /.mobile-nav__social -->
             </div><!-- /.mobile-nav__top -->
 
